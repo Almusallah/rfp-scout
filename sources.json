@@ -106,7 +106,9 @@
       "type": "html",
       "url": "https://www.nac.gov.sg/support/funding-and-schemes/tenders",
       "mode": "tenderpage",
-      "link_must_match": "tender"
+      "link_must_match": "gebiz|/tenders/",
+      "optional": true,
+      "_note": "tender list is script-rendered; curl sees nav only — kept for the day it changes"
     },
     {
       "id": "ungm-notices",
