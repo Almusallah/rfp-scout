@@ -16,7 +16,7 @@ for cid, c in cands.items():
     verdict = v.get("verdict", "reject")
     if verdict not in added: verdict = "reject"
     item = {"id": cid, "title": v.get("title") or c["title"], "url": v.get("url") or c["url"], "source": c["source"], "score": c["score"],
-            "verdict": verdict, "issuer": v.get("issuer", ""), "country": v.get("country", ""), "deadline": v.get("deadline", ""),
+            "verdict": verdict, "route": v.get("route", ""), "issuer": v.get("issuer", ""), "country": v.get("country", ""), "deadline": v.get("deadline", ""),
             "scope": v.get("scope", ""), "eligibility": v.get("eligibility", ""), "why": v.get("why", ""), "first_seen": today}
     state["items"].append(item); added[verdict] += 1
     state["seen"][c["key"]] = {"t": cid, "d": today}

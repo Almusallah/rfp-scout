@@ -22,9 +22,9 @@ python3 scripts/text.py "<url>" 2500
 `Write runs/verdicts.json` as a JSON array, one object per candidate (include rejects — a one-line `why` is enough):
 ```
 [{"id":"<id from candidates>","verdict":"fit|watch|reject","title":"<clean title>","url":"<direct notice URL if found, else original>",
-  "issuer":"","country":"","deadline":"YYYY-MM-DD or empty","scope":"<one sentence>","eligibility":"<notes>","why":"<one line>"}]
+  "route":"direct|consortium|we-lead+local|partner-leads|subcontract","issuer":"","country":"","deadline":"YYYY-MM-DD or empty","scope":"<one sentence>","eligibility":"<entity/registration rule and the TYPE of partner needed, if any>","why":"<one line>"}]
 ```
-Never invent a deadline or an issuer: leave empty if the page does not state it.
+Never invent a deadline or an issuer: leave empty if the page does not state it. `route` is required for every fit and watch (see PROFILE.md — entity restrictions choose the route, they never reject).
 
 ## Step 5 — Merge, build, commit, push (always, even on a zero-candidate run)
 ```
@@ -37,7 +37,7 @@ If push is rejected, `git pull --rebase origin main` once and push again.
 ## Step 6 — Notify (only when F ≥ 1)
 Send ONE email with the Gmail tool `send_message` — **to exactly these three addresses and no other**: `Afra@officinegap.com`, `frassiyuri@gmail.com`, `afra.rebuscini@gmail.com`.
 Subject: `[RFP Scout] <F> new fit — <shortest title>` (add `, <W> watch` if W ≥ 1).
-Body, plain text, per fit item: **title** · issuer · country · deadline · scope · eligibility · link. Then a `Watch:` list of titles + links (max 10). Close with the page link `https://almusallah.github.io/rfp-scout/`. No attachments. No email when F = 0 — the page and the run report are enough.
+Body, plain text, per fit item: **title** · issuer · country · deadline · **route** (direct / consortium / we-lead+local / partner-leads / subcontract) · scope · eligibility and the type of partner needed · link. Then a `Watch:` list of titles + links (max 10). Close with the page link `https://almusallah.github.io/rfp-scout/`. No attachments. No email when F = 0 — the page and the run report are enough.
 
 ## Step 7 — Final message
 End with exactly one line: `RFP SCOUT <date>: <N> candidates → <F> fit, <W> watch, <R> reject; email <sent|not needed>; failed sources: <ids or none>`.

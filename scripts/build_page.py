@@ -12,7 +12,7 @@ def row(i):
     dl = i.get("deadline") or "—"
     late = i.get("deadline") and i["deadline"] < today
     return (f'<article class="c {i["verdict"]}{" late" if late else ""}"><h3><a href="{E(i["url"])}" target="_blank" rel="noopener">{E(i["title"])}</a></h3>'
-            f'<p class="m"><b>{E(i.get("issuer") or "")}</b> {E(i.get("country") or "")} · deadline <b>{E(dl)}</b> · seen {i["first_seen"]} · <span class="s">{E(i["source"])}</span></p>'
+            f'<p class="m"><b>{E(i.get("issuer") or "")}</b> {E(i.get("country") or "")} · deadline <b>{E(dl)}</b>{(" · route <b>" + E(i["route"]) + "</b>") if i.get("route") else ""} · seen {i["first_seen"]} · <span class="s">{E(i["source"])}</span></p>'
             f'<p>{E(i.get("scope") or "")}</p><p class="w">{E(i.get("why") or "")}{(" · " + E(i["eligibility"])) if i.get("eligibility") else ""}</p></article>')
 fits = sorted([i for i in state["items"] if i["verdict"] == "fit"], key=lambda i: (i.get("deadline") or "9999", -i["score"]))
 watch = sorted([i for i in state["items"] if i["verdict"] == "watch"], key=lambda i: i["first_seen"], reverse=True)[:40]
@@ -25,7 +25,7 @@ main{{max-width:900px;margin:0 auto;padding:24px 16px 80px}}h1{{font-size:22px;m
 .c{{border-left:4px solid #ccc;background:#fff;padding:10px 14px;margin:10px 0;border-radius:4px}}.c.fit{{border-color:var(--fit)}}.c.watch{{border-color:var(--watch)}}.c.late{{opacity:.55}}
 h3{{font-size:16px;margin:0 0 4px}}a{{color:var(--ink)}}.m,.w{{color:var(--mute);font-size:13px;margin:2px 0}}.s{{font-family:monospace}}p{{margin:4px 0}}
 details{{margin-top:8px}}li.ok{{color:var(--fit)}}li.bad{{color:#b00020}}li.opt{{color:var(--mute)}}ul{{font-size:12px;font-family:monospace;padding-left:18px}}</style></head><body><main>
-<h1>RFP Scout</h1><p class="m">Tenders and calls in art production, exhibition and cultural project management that a Vietnam-registered LTD could answer. Asia / SEA first, plus Gulf and Central Asia publishers. Twice a week, automated, observe-only. Last run: <b>{E(lr.get("ran_at","—"))}</b> · {len(fits)} fit · {len(watch)} watch · {len(rej)} rejected.</p>
+<h1>RFP Scout</h1><p class="m">Tenders and calls in art production, exhibition and cultural project management that a Vietnam-registered LTD could answer. Asia / SEA first, plus Gulf and Central Asia publishers. Alone or with a partner (each item carries a route: direct, consortium, we-lead+local, partner-leads, subcontract). Twice a week, automated, observe-only. Last run: <b>{E(lr.get("ran_at","—"))}</b> · {len(fits)} fit · {len(watch)} watch · {len(rej)} rejected.</p>
 <h2>Fit — act on these</h2>{"".join(row(i) for i in fits) or "<p class='m'>Nothing fitting yet.</p>"}
 <h2>Watch — unclear or early</h2>{"".join(row(i) for i in watch) or "<p class='m'>—</p>"}
 <details><summary>Rejected ({len(rej)}) and source health</summary><ul>{"".join(f"<li>{E(i['title'])} — {E(i.get('why',''))}</li>" for i in rej[-60:])}</ul><h2>Sources</h2><ul>{health}</ul></details>
