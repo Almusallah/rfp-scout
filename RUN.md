@@ -32,7 +32,12 @@ python3 scripts/commit_verdicts.py && python3 scripts/build_page.py
 printf '\n## %s\n%s\n' "$(date -u +%F)" "<one line: N candidates, F fit, W watch, R reject; failed sources if any>" >> LOG.md
 git add state.json runs/last_run.json docs/index.html LOG.md && git -c user.name=rfp-scout -c user.email=rfp-scout@users.noreply.github.com commit -m "scan $(date -u +%F): <F> fit, <W> watch" && git push origin HEAD:main
 ```
-If push is rejected, `git pull --rebase origin main` once and push again.
+If push is rejected (someone edited the repo while you ran), do NOT abort or reclassify. Run:
+```
+git fetch origin main && git rebase -X theirs origin/main || { git checkout --theirs docs/index.html state.json LOG.md; git add docs/index.html state.json LOG.md; GIT_EDITOR=true git rebase --continue; }
+python3 scripts/build_page.py && git add docs/index.html && git -c user.name=rfp-scout -c user.email=rfp-scout@users.noreply.github.com commit -qm "rebuild page after rebase" ; git push origin HEAD:main
+```
+`docs/index.html` is derived from `state.json`, so rebuilding it after the rebase is always correct. If the rebase brought a new `PROFILE.md`, note it in LOG.md; the next run will use it.
 
 ## Step 6 — Notify (only when F ≥ 1)
 Send ONE email with the Gmail tool `send_message` — **to exactly these three addresses and no other**: `Afra@officinegap.com`, `frassiyuri@gmail.com`, `afra.rebuscini@gmail.com`.

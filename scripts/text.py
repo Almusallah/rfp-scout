@@ -7,7 +7,9 @@ url = sys.argv[1]; cap = int(sys.argv[2]) if len(sys.argv) > 2 else 2500
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36"
 
 def get(u, data=None, headers=None, timeout=25):
-    h = {"User-Agent": UA, "Accept-Language": "en"}; h.update(headers or {})
+    h = {"User-Agent": UA, "Accept-Language": "en-US,en;q=0.9"}
+    if "google.com" in u: h["Cookie"] = "CONSENT=YES+cb.20240101-00-p0.en+FX+999; SOCS=CAESEwgDEgk2MDk5NzE4MDAaAmVuIAEaBgiA_LyaBg"
+    h.update(headers or {})
     req = urllib.request.Request(u, data=data, headers=h)
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.geturl(), r.read(1_500_000).decode("utf-8", "ignore")
@@ -19,7 +21,8 @@ def decode_gnews(u):
     try:
         _, page = get(f"https://news.google.com/articles/{art}")
         sg = re.search(r'data-n-a-sg="([^"]+)"', page); ts = re.search(r'data-n-a-ts="([^"]+)"', page)
-        if not (sg and ts): return u
+        if not (sg and ts):
+            sys.stderr.write("DECODE_FAILED: no signature on news.google.com/articles page (consent wall?)\n"); return u
         payload = ["Fbv4je", f'["garturlreq",[["X","X",["X","X"],null,null,1,1,"US:en",null,1,null,null,null,null,null,0,1],"X","X",1,[1,1,1],1,1,null,0,0,null,0],"{art}",{ts.group(1)},"{sg.group(1)}"]']
         body = "f.req=" + urllib.parse.quote(json.dumps([[payload]]))
         _, resp = get("https://news.google.com/_/DotsSplashUi/data/batchexecute", data=body.encode(), headers={"Content-Type": "application/x-www-form-urlencoded;charset=UTF-8"})
@@ -27,8 +30,8 @@ def decode_gnews(u):
         parsed = json.loads(chunk)
         real = json.loads(parsed[0][2])[1]
         return real if isinstance(real, str) and real.startswith("http") else u
-    except Exception:
-        return u
+    except Exception as e:
+        sys.stderr.write(f"DECODE_FAILED: {type(e).__name__}: {str(e)[:80]}\n"); return u
 
 try:
     target = decode_gnews(url)
