@@ -1,0 +1,155 @@
+{
+  "_doc": "Each source: id, type (rss|html), url, optional 'mode' ('tenderpage' = every link is a tender, so only the domain keyword is required), optional 'optional': true (403/timeouts are expected from some IPs; do not treat as failure). Edit freely; harvest.py never fails on a single source. 'link_must_match' (regex, html sources) keeps only links whose URL matches — use it on nav-heavy pages. 'require_geo': true drops items with no Asia/Gulf/Central-Asia place name (for broad news queries that Google fills with US/EU noise).",
+  "sources": [
+    {
+      "id": "gnews-rfp-exhibition-asia",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=(%22request+for+proposal%22+OR+%22request+for+proposals%22+OR+RFP)+(exhibition+OR+museum+OR+biennale+OR+biennial+OR+pavilion)+Asia&hl=en&gl=US&ceid=US:en",
+      "require_geo": true
+    },
+    {
+      "id": "gnews-cfp-sea",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=%22call+for+proposals%22+(exhibition+OR+biennale+OR+festival+OR+museum+OR+cultural)+(Vietnam+OR+Thailand+OR+Singapore+OR+Malaysia+OR+Indonesia+OR+Philippines+OR+Cambodia+OR+Japan+OR+Korea+OR+%22Hong+Kong%22+OR+Taiwan)&hl=en&gl=US&ceid=US:en",
+      "require_geo": true
+    },
+    {
+      "id": "gnews-tender-exhibition-asia",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=tender+(exhibition+OR+museum+OR+%22art+installation%22+OR+scenography+OR+%22exhibition+design%22)+(Singapore+OR+%22Hong+Kong%22+OR+Vietnam+OR+Thailand+OR+Malaysia+OR+Japan+OR+Korea+OR+Indonesia)&hl=en&gl=US&ceid=US:en",
+      "require_geo": true
+    },
+    {
+      "id": "gnews-dbf",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=%22Diriyah+Biennale+Foundation%22+OR+%22Diriyah+Contemporary+Art+Biennale%22+OR+%22Islamic+Arts+Biennale%22&hl=en&gl=US&ceid=US:en"
+    },
+    {
+      "id": "gnews-acdf",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=%22Art+and+Culture+Development+Foundation%22+Uzbekistan+OR+%22Bukhara+Biennial%22+OR+%22Tashkent+biennale%22&hl=en&gl=US&ceid=US:en"
+    },
+    {
+      "id": "gnews-qatar-culture-tender",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=(%22Qatar+Museums%22+OR+%22Qatar+Foundation%22+OR+Doha)+(tender+OR+RFP+OR+RFQ+OR+%22request+for+proposal%22)+(exhibition+OR+museum+OR+cultural)&hl=en&gl=US&ceid=US:en"
+    },
+    {
+      "id": "gnews-ksa-culture-tender",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=(Riyadh+OR+Jeddah+OR+AlUla+OR+Diriyah+OR+%22Expo+2030%22)+(tender+OR+RFP+OR+%22request+for+proposal%22+OR+%22expression+of+interest%22)+(exhibition+OR+museum+OR+pavilion+OR+cultural+OR+art)&hl=en&gl=US&ceid=US:en"
+    },
+    {
+      "id": "gnews-unesco-sea",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=UNESCO+(%22call+for+proposals%22+OR+%22request+for+proposals%22+OR+tender)+(Bangkok+OR+Hanoi+OR+%22Viet+Nam%22+OR+%22South-East+Asia%22+OR+Jakarta+OR+Phnom+Penh)&hl=en&gl=US&ceid=US:en"
+    },
+    {
+      "id": "gnews-vietnam-cultural",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=(%22open+call%22+OR+%22call+for+proposals%22+OR+tender+OR+RFP)+(curator+OR+%22cultural+project%22+OR+exhibition+OR+%22art+production%22+OR+festival)+(Vietnam+OR+Hanoi+OR+%22Ho+Chi+Minh%22+OR+Saigon+OR+%22Da+Nang%22)&hl=en&gl=US&ceid=US:en",
+      "require_geo": true
+    },
+    {
+      "id": "gnews-cultural-institutes-sea",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=(%22British+Council%22+OR+%22Goethe-Institut%22+OR+%22Japan+Foundation%22+OR+%22Korea+Foundation%22+OR+%22Institut+fran%C3%A7ais%22+OR+%22Alliance+Fran%C3%A7aise%22+OR+EUNIC)+(tender+OR+%22call+for+proposals%22+OR+%22request+for+proposals%22)+(arts+OR+culture+OR+exhibition)+(Vietnam+OR+%22Southeast+Asia%22+OR+Thailand+OR+Singapore+OR+Indonesia)&hl=en&gl=US&ceid=US:en",
+      "require_geo": true
+    },
+    {
+      "id": "gnews-biennale-rfp-global",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=(biennale+OR+biennial+OR+triennale+OR+triennial)+(%22request+for+proposals%22+OR+tender+OR+%22expression+of+interest%22+OR+%22call+for+tenders%22)&hl=en&gl=US&ceid=US:en"
+    },
+    {
+      "id": "gnews-art-handling-tender",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=(%22art+handling%22+OR+%22exhibition+fabrication%22+OR+%22exhibition+production%22+OR+%22exhibition+build%22+OR+%22production+management%22)+(tender+OR+RFP+OR+RFQ+OR+%22request+for+proposal%22+OR+procurement)&hl=en&gl=US&ceid=US:en"
+    },
+    {
+      "id": "gnews-museum-procurement-gulf-asia",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=(museum+OR+%22cultural+district%22+OR+%22arts+centre%22+OR+%22arts+center%22)+(procurement+OR+tender+OR+RFP)+(UAE+OR+Dubai+OR+%22Abu+Dhabi%22+OR+Sharjah+OR+Oman+OR+Bahrain+OR+Kuwait+OR+Uzbekistan+OR+Kazakhstan+OR+India+OR+Singapore)&hl=en&gl=US&ceid=US:en",
+      "require_geo": true
+    },
+    {
+      "id": "on-the-move",
+      "type": "rss",
+      "url": "https://on-the-move.org/news?format=rss"
+    },
+    {
+      "id": "callforcurators",
+      "type": "rss",
+      "url": "https://www.callforcurators.com/feed/"
+    },
+    {
+      "id": "resartis",
+      "type": "rss",
+      "url": "https://resartis.org/open-calls/feed/"
+    },
+    {
+      "id": "acdf-news",
+      "type": "html",
+      "url": "https://acdf.uz/en/news",
+      "mode": "tenderpage",
+      "link_must_match": "/news/"
+    },
+    {
+      "id": "qf-tenders",
+      "type": "html",
+      "url": "https://www.qf.org.qa/tenders",
+      "mode": "tenderpage",
+      "link_must_match": "tender"
+    },
+    {
+      "id": "nac-sg-tenders",
+      "type": "html",
+      "url": "https://www.nac.gov.sg/support/funding-and-schemes/tenders",
+      "mode": "tenderpage",
+      "link_must_match": "tender"
+    },
+    {
+      "id": "ungm-notices",
+      "type": "html",
+      "url": "https://www.ungm.org/Public/Notice",
+      "mode": "tenderpage",
+      "link_must_match": "/Public/Notice/\\d"
+    },
+    {
+      "id": "sharjah-art-foundation",
+      "type": "html",
+      "url": "https://sharjahart.org/",
+      "optional": true,
+      "link_must_match": "open-?call|opportunit|call-for"
+    },
+    {
+      "id": "dbf-site",
+      "type": "html",
+      "url": "https://biennale.org.sa/en/",
+      "optional": true,
+      "link_must_match": "open-?call|tender|vendor|procure|call-for"
+    },
+    {
+      "id": "wkcda-tenders",
+      "type": "html",
+      "url": "https://www.westkowloon.hk/en/tender-notice",
+      "mode": "tenderpage",
+      "optional": true,
+      "link_must_match": "tender"
+    },
+    {
+      "id": "biennial-foundation-open-calls",
+      "type": "rss",
+      "url": "https://biennialfoundation.org/category/open-calls/feed/",
+      "optional": true
+    },
+    {
+      "id": "unesco-procurement",
+      "type": "html",
+      "url": "https://www.unesco.org/en/procurement",
+      "mode": "tenderpage",
+      "optional": true,
+      "link_must_match": "procurement|tender|notice"
+    }
+  ]
+}

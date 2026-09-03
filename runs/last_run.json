@@ -1,0 +1,180 @@
+{
+ "ran_at": "2026-09-03T11:22:52+00:00",
+ "candidates": 22,
+ "overflow_dropped": 0,
+ "sources": [
+  {
+   "id": "gnews-rfp-exhibition-asia",
+   "ok": true,
+   "items": 4,
+   "new": 0,
+   "secs": 1.3
+  },
+  {
+   "id": "gnews-cfp-sea",
+   "ok": true,
+   "items": 49,
+   "new": 5,
+   "secs": 1.6
+  },
+  {
+   "id": "gnews-tender-exhibition-asia",
+   "ok": true,
+   "items": 77,
+   "new": 4,
+   "secs": 4.1
+  },
+  {
+   "id": "gnews-dbf",
+   "ok": true,
+   "items": 100,
+   "new": 0,
+   "secs": 1.6
+  },
+  {
+   "id": "gnews-acdf",
+   "ok": true,
+   "items": 100,
+   "new": 0,
+   "secs": 1.5
+  },
+  {
+   "id": "gnews-qatar-culture-tender",
+   "ok": true,
+   "items": 10,
+   "new": 0,
+   "secs": 1.3
+  },
+  {
+   "id": "gnews-ksa-culture-tender",
+   "ok": true,
+   "items": 27,
+   "new": 0,
+   "secs": 1.4
+  },
+  {
+   "id": "gnews-unesco-sea",
+   "ok": true,
+   "items": 2,
+   "new": 0,
+   "secs": 1.1
+  },
+  {
+   "id": "gnews-vietnam-cultural",
+   "ok": true,
+   "items": 28,
+   "new": 0,
+   "secs": 1.3
+  },
+  {
+   "id": "gnews-cultural-institutes-sea",
+   "ok": true,
+   "items": 38,
+   "new": 0,
+   "secs": 1.3
+  },
+  {
+   "id": "gnews-biennale-rfp-global",
+   "ok": true,
+   "items": 51,
+   "new": 5,
+   "secs": 1.4
+  },
+  {
+   "id": "gnews-art-handling-tender",
+   "ok": true,
+   "items": 24,
+   "new": 1,
+   "secs": 0.8
+  },
+  {
+   "id": "gnews-museum-procurement-gulf-asia",
+   "ok": true,
+   "items": 48,
+   "new": 0,
+   "secs": 1.2
+  },
+  {
+   "id": "on-the-move",
+   "ok": true,
+   "items": 0,
+   "new": 0,
+   "secs": 1.6
+  },
+  {
+   "id": "callforcurators",
+   "ok": true,
+   "items": 29,
+   "new": 1,
+   "secs": 2.4
+  },
+  {
+   "id": "resartis",
+   "ok": true,
+   "items": 0,
+   "new": 0,
+   "secs": 0.6
+  },
+  {
+   "id": "acdf-news",
+   "ok": true,
+   "items": 17,
+   "new": 5,
+   "secs": 8.2
+  },
+  {
+   "id": "qf-tenders",
+   "ok": true,
+   "items": 0,
+   "new": 0,
+   "secs": 3.2
+  },
+  {
+   "id": "nac-sg-tenders",
+   "ok": true,
+   "items": 0,
+   "new": 0,
+   "secs": 0.8
+  },
+  {
+   "id": "ungm-notices",
+   "ok": true,
+   "items": 0,
+   "new": 0,
+   "secs": 3.1
+  },
+  {
+   "id": "sharjah-art-foundation",
+   "ok": true,
+   "items": 3,
+   "new": 1,
+   "secs": 3.9
+  },
+  {
+   "id": "dbf-site",
+   "ok": true,
+   "items": 0,
+   "new": 0,
+   "secs": 1.6
+  },
+  {
+   "id": "wkcda-tenders",
+   "ok": false,
+   "optional": true,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "id": "biennial-foundation-open-calls",
+   "ok": false,
+   "optional": true,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "id": "unesco-procurement",
+   "ok": true,
+   "items": 0,
+   "new": 0,
+   "secs": 3.7
+  }
+ ]
+}
