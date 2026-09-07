@@ -415,6 +415,166 @@
    "eligibility": "",
    "why": "News article, not a call for proposals or tender.",
    "first_seen": "2026-09-03"
+  },
+  {
+   "id": "5f3706bb5539d584",
+   "title": "Open call for proposals: Singapore Pavilion at Venice Architecture Biennale 2027 (URA)",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQV9xcHVMZkZRVEI2UV8xZzBlTVFiSUlsOFRjZXAwMkJHWi1fV1Rnbmg3RVRKeW5xVWUzVjRnSlhzcHRHTzh5MElDWXpENGkyNmFvc2M2OXhzd3lnaVZ2LXBRaS05NWZXZE00QUMwVmFVUUI3cVZxTG9LanV1OWg4Y0NMb3Y0MjNvSzdjTUI2VlRiQXdqc0E?oc=5",
+   "source": "gnews-cfp-sea",
+   "score": 19,
+   "verdict": "fit",
+   "route": "we-lead+local",
+   "issuer": "Urban Redevelopment Authority (URA), Singapore",
+   "country": "Singapore",
+   "deadline": "",
+   "scope": "Open call for proposals to design and produce Singapore's national pavilion at the Venice Architecture Biennale 2027.",
+   "eligibility": "Source page returned a bot-check (Google News rate-limited); not confirmed from primary text. Singapore national pavilion calls typically require the lead/commissioning entity to be Singapore-registered or citizen/PR-led, so a Singapore-based curatorial or design partner would likely be needed to lead or co-lead, with Officine Gặp on production management and exhibition design development.",
+   "why": "Direct match on exhibition design + production management (§1/§4) and top-tier geography (Singapore); scope and deadline unconfirmed because the article page was blocked.",
+   "first_seen": "2026-09-07"
+  },
+  {
+   "id": "8216656ad8ddb10b",
+   "title": "Open Call for Ireland Pavilion: Venice Architecture Biennale 2016",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEVqT1NMMTFVWFRLaWFhS2VsRnJNUlFwZ19OeTlOREltLTFvSVIyQnlmblVseGd5U1dRUDJKajI5VDBOQks0dDluRXRWVl9kZjQ0ZjRfSUJ6SzVrMGk4anVfT2E5NEdRek5nZkJaTXQ5R25zRFd6RTRMLU9xMjFNZGVtd2xReXBvc0tLSF9qR2wxdlAwRVVzT1p1TDN2TmtmVTk1anNMV1VQWEx0Si0zOTZ4bXdraUdKU2szSHVEbVo?oc=5",
+   "source": "gnews-biennale-rfp-global",
+   "score": 15,
+   "verdict": "reject",
+   "route": "",
+   "issuer": "",
+   "country": "Ireland",
+   "deadline": "",
+   "scope": "",
+   "eligibility": "",
+   "why": "Article from 2015 about a 2016 pavilion call; more than a decade closed, and Ireland is outside the geography list.",
+   "first_seen": "2026-09-07"
+  },
+  {
+   "id": "1d12cfd6c1074521",
+   "title": "Curator Open Call for Exhibition Proposals in Singapore",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORks2ekhjTUM2S2o5bDdxV3h4RGM3TmUxbVlrczFYTkhTY0lNdnVEYlRfbzBVRFAxZ3dSUnRWOFhITks5N1M1eHpSSFdpclBYaXE3MHhhS2o0Z1l5azRTUFROeGdLZ09tRVlHNFVDZHpWMTRyTm9pakc0RG12cG93enJ4VG1lWXRmNW9PSER3ZXluUTZXQ1U4eWw4Zm9pZ9IBowFBVV95cUxNSFpidk9ITTlsaERxMUMzdjZpM19iYmR2WXk0LVc5bmZXYW1PQVdoUDdWQ0ZiUEx3c3FYa1BWc1d0THoyVlhvNXNoRWE0VE9iVjA2ZWZBZThWVjJ3RG1BbFZTbmVVa0d3eF9vR0FLdmFlVDY5dUdSYWE5Vk9PQUl2OUdET3BOUHlYZndmRGQyU3lQejlHTmRrSnJGdmRUd3lVQjJz?oc=5",
+   "source": "gnews-cfp-sea",
+   "score": 13,
+   "verdict": "watch",
+   "route": "direct",
+   "issuer": "",
+   "country": "Singapore",
+   "deadline": "",
+   "scope": "Open call inviting curators to submit exhibition proposals in Singapore.",
+   "eligibility": "Source page blocked (bot-check); could not confirm whether it carries a production budget or is an individual-curator opportunity vs. one open to curatorial practices/collectives.",
+   "why": "On-theme (curating, §6) and top-tier geography, but scope/budget and deadline are unconfirmed pending direct verification.",
+   "first_seen": "2026-09-07"
+  },
+  {
+   "id": "16c49e249a2bb762",
+   "title": "Open call for artists: 2027 \"Révélations\" International Fine Craft and Creation Biennial",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmplWUp3VmlEU2tLSmRqcnMyS0F2QmttRjJBbjhkY2dEd01JbzVYOEJsbUFSMm9XZmx6d21pakI4MWpGUmNOcmNpTzRLMWtYZW1IZWVSMUZYN0szdjBlUW9XeFlJWVl2d2MyUldiSmg3cUtIa0RYV2N6RGlzZ3J0QThLa2VSeGlQdFdaQlpaYVExS2Qyd2pQcTZTNEpfeWt5WGpSb0JCdzdPZUdCSVlZZ2dEMHZoMjA?oc=5",
+   "source": "gnews-biennale-rfp-global",
+   "score": 12,
+   "verdict": "reject",
+   "route": "",
+   "issuer": "",
+   "country": "France",
+   "deadline": "",
+   "scope": "",
+   "eligibility": "",
+   "why": "Open call to individual craft artists for a Paris-area biennial; outside geography and no production budget/scope for us.",
+   "first_seen": "2026-09-07"
+  },
+  {
+   "id": "9ae8c3827f109649",
+   "title": "Open Call for Artists: Timor-Leste at the 2026 Venice Biennale",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWUMzRjNicGZ3X194ejZpZ0N3czBCOU50aUlLWW9va2NQZmpqZzdEOENQWm1rR0M1LW1GU3NRS3MtUmREVnZnUm9PUXpzUF80Qy1KUHlSWXV5S3l3U19TRkFqRmE0TzdidmpDTWptbjhXRk1KMFBOMjRwdm8wTU84d0tNc280SFRpQkpORjlMc2pVaWpQM3cwbjc2U21Lak0?oc=5",
+   "source": "gnews-biennale-rfp-global",
+   "score": 12,
+   "verdict": "reject",
+   "route": "",
+   "issuer": "",
+   "country": "Timor-Leste",
+   "deadline": "",
+   "scope": "",
+   "eligibility": "",
+   "why": "Individual-artist selection call published mid-2025 for the 2026 Biennale, which is already underway by now; closed and no production scope stated.",
+   "first_seen": "2026-09-07"
+  },
+  {
+   "id": "8ee56c92ca499ca2",
+   "title": "Call for Proposals - ICH Creative Content Contest 2026 (Malaysia)",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOXZQWjRJTGtHbEVHVk5ZNTNad2hjc3JXZ0V6UzBwaXAza0hYSWtqWlhsWW9PMTJOTFRSaTB1NGNIbXlmZDgtZk4wand2SmRTa1czVkZSVG9ka0lxNl94b2tINl8xdEtWNzFrR0ZMTi1RVU1id2VkOG90N0JISVdOY2U2aktoSDFTcG10RzNLRWREUWpQRHJv?oc=5",
+   "source": "gnews-cfp-sea",
+   "score": 10,
+   "verdict": "watch",
+   "route": "",
+   "issuer": "",
+   "country": "Malaysia",
+   "deadline": "",
+   "scope": "UNESCO-linked contest for creative content on intangible cultural heritage.",
+   "eligibility": "Source page blocked (bot-check); \"contest\" framing suggests individual/team content-creation entries rather than a production procurement, but not confirmed.",
+   "why": "Geography and UNESCO-adjacent issuer match, but likely a content contest for individuals rather than a production/consulting tender; flagged rather than rejected outright since the page could not be checked.",
+   "first_seen": "2026-09-07"
+  },
+  {
+   "id": "07c16ed21f691412",
+   "title": "Call for Proposals: Bringing Living Heritage into Classroom (Philippines)",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVGI4LTQ5dlpkNUNZTUNSUkdtY1ZVekxvcWxXWWQxd0hLZlhXalhHRGRJeWVPMWYweVZxNHFwTkdUQWZtRmozZnlTanRtYkNDZ3lSeXNkNFBDczB0c1R1RC1MWFB5U1BsRFI2SGxxVkc3Q3dnU201cm1IeXo0NnZJTy13S3JGV3kxLThBSGZCU0lmWHhFUVNHNC1UM3l1eVc0TGd0U3BIeXhHZkpqXzFEbXg1UDFDWE3SAbwBQVVfeXFMTU1jMmNIZy1TM0RVS0c1REtvYU9NcWtHOWhkcHZPVm5hWXc4VUdhcFloOGtjdDZhSUZlSi1HdDVmNVNkWk5aWEUwOG1ySjZDUWVWUG9FNHN2X1RVZU02NzlMRHl5ZUtEQmQ0Q1diUktUQlJsSEs4SjRNWktsLS1NQVpoaVBLSW1PRWV2T2pGYy1wZjVQTWhjNmZFRU5aMkx3bXVvWWJHLUtMaUdBanp6YW5YWnVDakFJOEdBWG4?oc=5",
+   "source": "gnews-cfp-sea",
+   "score": 10,
+   "verdict": "watch",
+   "route": "",
+   "issuer": "",
+   "country": "Philippines",
+   "deadline": "",
+   "scope": "Proposal call for an intangible-heritage-in-education programme.",
+   "eligibility": "Source page blocked (bot-check); fundsforNGOs listing suggests an NGO/education grant rather than exhibition production, could touch cultural project management/research (§3) but unconfirmed.",
+   "why": "On-geography and heritage-adjacent, but likely an education/NGO grant rather than our core scope; kept as watch pending direct verification.",
+   "first_seen": "2026-09-07"
+  },
+  {
+   "id": "47a58e6dbb57e6d7",
+   "title": "Call for Applications: Heritage Research Grant (Singapore)",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2haNjIxZFJFeVNfRzh1YkhlYmVwYW51RFV4enFidE9Db1hwdVpwRjlyX0psby1oOElKaS1ZQkJnTE1kR01KSHdvTFlUMFhzVzBsdFhzRTB2QkozMGFHRDl2Y24wRXp2MGZ5UHM4U01XNm4zLTFDQVpid0NSR2c4OUZOOFhJNExsTHhJSzFnOWkwMC1PalJQU2w3QlowWjTSAaQBQVVfeXFMTzZ6aTYzZTRleFZmRHFIUHUzTDFVcnJNaFI5cXZfMWhmTW1sZTNVT1FkbzRmSVltNjJqRFU5S2FUVXZ4TnRnQVpobzc0MnJDb0dVS3o1TmkzY2JWdmt3NjVZWkExa3V5bDJYWWxmNTFnM3BoRktjTHZIbVlCMzZVb0RmQi15VWZTUURFdm9Mdk1pR0NFS3pmTFNKS3lEckhmTUxHYU8?oc=5",
+   "source": "gnews-cfp-sea",
+   "score": 10,
+   "verdict": "watch",
+   "route": "",
+   "issuer": "",
+   "country": "Singapore",
+   "deadline": "",
+   "scope": "Grant call for heritage-related research.",
+   "eligibility": "Source page blocked (bot-check); \"research grant\" framing suggests individual/institutional research funding rather than a production or cultural-mapping consulting engagement, but unconfirmed.",
+   "why": "Top-tier geography and heritage theme, but appears to be a research grant rather than our core scope; kept as watch pending direct verification.",
+   "first_seen": "2026-09-07"
+  },
+  {
+   "id": "ee3f15d6c8c31aab",
+   "title": "in venice, ukrainian artists reclaim joy with tender force",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTHhyeVhuY05rWE9uWlV2NG1WNS1fejBrendIQWJmZDF4czk1SjhaTktjYWx4QWMyQkFzckg4aktJZzVCNzNpZVJmYmtwVFhraE85OWxFOXZtM2ZZYWI5NUtDa0lSeUxKa2pncERTLWFNTmhDMUYtNnJPTXVCRVNXaElESjZDUQ?oc=5",
+   "source": "gnews-biennale-rfp-global",
+   "score": 6,
+   "verdict": "reject",
+   "route": "",
+   "issuer": "",
+   "country": "",
+   "deadline": "",
+   "scope": "",
+   "eligibility": "",
+   "why": "News feature; \"tender\" used as an adjective, not an actual tender notice.",
+   "first_seen": "2026-09-07"
+  },
+  {
+   "id": "e62ff7f67b48c372",
+   "title": "Artist Sheree Hovsepian Creates Tender Collages With Photos, Ceramics, and String",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WSDBkZEJPRXNzekRsREdYZlVMV0dVNF9LQ0NUTjlvQlo2UlNzZnROR2V3WGpmVkhoSHdGZVBEc2xSWlF4bzVIX1FpazdSaS1NUlZuemlBd3R3dHljVm1RdE83QnBYZDQ1b3VTWTdOanM3SEtRRVF5TFBtd9IBgwFBVV95cUxOLXc1Rm4yU0piR3FSVVFiM205bnREaVhYNUZZQ0hMN2RMWTdacGVnYWdvM2Q4UzhGbDkwV1dUSzBETnNWMVowbHEwaWJGM0JacDhDdGpWWFo1bVBzRGRZU180UEhUQmpkc2o0czFoLTUtYWx6TlBCTGdTLWw1bGpMYWw2aw?oc=5",
+   "source": "gnews-biennale-rfp-global",
+   "score": 6,
+   "verdict": "reject",
+   "route": "",
+   "issuer": "",
+   "country": "",
+   "deadline": "",
+   "scope": "",
+   "eligibility": "",
+   "why": "Pure art-news feature, not a tender or open call.",
+   "first_seen": "2026-09-07"
   }
  ],
  "seen": {
@@ -625,14 +785,94 @@
   "5cb97ba9f4e3c62e": {
    "t": "5cb97ba9f4e3c62e",
    "d": "2026-09-03"
+  },
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQV9xcHVMZkZRVEI2UV8xZzBlTVFiSUlsOFRjZXAwMkJHWi1fV1Rnbmg3RVRKeW5xVWUzVjRnSlhzcHRHTzh5MElDWXpENGkyNmFvc2M2OXhzd3lnaVZ2LXBRaS05NWZXZE00QUMwVmFVUUI3cVZxTG9LanV1OWg4Y0NMb3Y0MjNvSzdjTUI2VlRiQXdqc0E?oc=5": {
+   "t": "5f3706bb5539d584",
+   "d": "2026-09-07"
+  },
+  "5f3706bb5539d584": {
+   "t": "5f3706bb5539d584",
+   "d": "2026-09-07"
+  },
+  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEVqT1NMMTFVWFRLaWFhS2VsRnJNUlFwZ19OeTlOREltLTFvSVIyQnlmblVseGd5U1dRUDJKajI5VDBOQks0dDluRXRWVl9kZjQ0ZjRfSUJ6SzVrMGk4anVfT2E5NEdRek5nZkJaTXQ5R25zRFd6RTRMLU9xMjFNZGVtd2xReXBvc0tLSF9qR2wxdlAwRVVzT1p1TDN2TmtmVTk1anNMV1VQWEx0Si0zOTZ4bXdraUdKU2szSHVEbVo?oc=5": {
+   "t": "8216656ad8ddb10b",
+   "d": "2026-09-07"
+  },
+  "8216656ad8ddb10b": {
+   "t": "8216656ad8ddb10b",
+   "d": "2026-09-07"
+  },
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxORks2ekhjTUM2S2o5bDdxV3h4RGM3TmUxbVlrczFYTkhTY0lNdnVEYlRfbzBVRFAxZ3dSUnRWOFhITks5N1M1eHpSSFdpclBYaXE3MHhhS2o0Z1l5azRTUFROeGdLZ09tRVlHNFVDZHpWMTRyTm9pakc0RG12cG93enJ4VG1lWXRmNW9PSER3ZXluUTZXQ1U4eWw4Zm9pZ9IBowFBVV95cUxNSFpidk9ITTlsaERxMUMzdjZpM19iYmR2WXk0LVc5bmZXYW1PQVdoUDdWQ0ZiUEx3c3FYa1BWc1d0THoyVlhvNXNoRWE0VE9iVjA2ZWZBZThWVjJ3RG1BbFZTbmVVa0d3eF9vR0FLdmFlVDY5dUdSYWE5Vk9PQUl2OUdET3BOUHlYZndmRGQyU3lQejlHTmRrSnJGdmRUd3lVQjJz?oc=5": {
+   "t": "1d12cfd6c1074521",
+   "d": "2026-09-07"
+  },
+  "1d12cfd6c1074521": {
+   "t": "1d12cfd6c1074521",
+   "d": "2026-09-07"
+  },
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmplWUp3VmlEU2tLSmRqcnMyS0F2QmttRjJBbjhkY2dEd01JbzVYOEJsbUFSMm9XZmx6d21pakI4MWpGUmNOcmNpTzRLMWtYZW1IZWVSMUZYN0szdjBlUW9XeFlJWVl2d2MyUldiSmg3cUtIa0RYV2N6RGlzZ3J0QThLa2VSeGlQdFdaQlpaYVExS2Qyd2pQcTZTNEpfeWt5WGpSb0JCdzdPZUdCSVlZZ2dEMHZoMjA?oc=5": {
+   "t": "16c49e249a2bb762",
+   "d": "2026-09-07"
+  },
+  "16c49e249a2bb762": {
+   "t": "16c49e249a2bb762",
+   "d": "2026-09-07"
+  },
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWUMzRjNicGZ3X194ejZpZ0N3czBCOU50aUlLWW9va2NQZmpqZzdEOENQWm1rR0M1LW1GU3NRS3MtUmREVnZnUm9PUXpzUF80Qy1KUHlSWXV5S3l3U19TRkFqRmE0TzdidmpDTWptbjhXRk1KMFBOMjRwdm8wTU84d0tNc280SFRpQkpORjlMc2pVaWpQM3cwbjc2U21Lak0?oc=5": {
+   "t": "9ae8c3827f109649",
+   "d": "2026-09-07"
+  },
+  "9ae8c3827f109649": {
+   "t": "9ae8c3827f109649",
+   "d": "2026-09-07"
+  },
+  "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOXZQWjRJTGtHbEVHVk5ZNTNad2hjc3JXZ0V6UzBwaXAza0hYSWtqWlhsWW9PMTJOTFRSaTB1NGNIbXlmZDgtZk4wand2SmRTa1czVkZSVG9ka0lxNl94b2tINl8xdEtWNzFrR0ZMTi1RVU1id2VkOG90N0JISVdOY2U2aktoSDFTcG10RzNLRWREUWpQRHJv?oc=5": {
+   "t": "8ee56c92ca499ca2",
+   "d": "2026-09-07"
+  },
+  "8ee56c92ca499ca2": {
+   "t": "8ee56c92ca499ca2",
+   "d": "2026-09-07"
+  },
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVGI4LTQ5dlpkNUNZTUNSUkdtY1ZVekxvcWxXWWQxd0hLZlhXalhHRGRJeWVPMWYweVZxNHFwTkdUQWZtRmozZnlTanRtYkNDZ3lSeXNkNFBDczB0c1R1RC1MWFB5U1BsRFI2SGxxVkc3Q3dnU201cm1IeXo0NnZJTy13S3JGV3kxLThBSGZCU0lmWHhFUVNHNC1UM3l1eVc0TGd0U3BIeXhHZkpqXzFEbXg1UDFDWE3SAbwBQVVfeXFMTU1jMmNIZy1TM0RVS0c1REtvYU9NcWtHOWhkcHZPVm5hWXc4VUdhcFloOGtjdDZhSUZlSi1HdDVmNVNkWk5aWEUwOG1ySjZDUWVWUG9FNHN2X1RVZU02NzlMRHl5ZUtEQmQ0Q1diUktUQlJsSEs4SjRNWktsLS1NQVpoaVBLSW1PRWV2T2pGYy1wZjVQTWhjNmZFRU5aMkx3bXVvWWJHLUtMaUdBanp6YW5YWnVDakFJOEdBWG4?oc=5": {
+   "t": "07c16ed21f691412",
+   "d": "2026-09-07"
+  },
+  "07c16ed21f691412": {
+   "t": "07c16ed21f691412",
+   "d": "2026-09-07"
+  },
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2haNjIxZFJFeVNfRzh1YkhlYmVwYW51RFV4enFidE9Db1hwdVpwRjlyX0psby1oOElKaS1ZQkJnTE1kR01KSHdvTFlUMFhzVzBsdFhzRTB2QkozMGFHRDl2Y24wRXp2MGZ5UHM4U01XNm4zLTFDQVpid0NSR2c4OUZOOFhJNExsTHhJSzFnOWkwMC1PalJQU2w3QlowWjTSAaQBQVVfeXFMTzZ6aTYzZTRleFZmRHFIUHUzTDFVcnJNaFI5cXZfMWhmTW1sZTNVT1FkbzRmSVltNjJqRFU5S2FUVXZ4TnRnQVpobzc0MnJDb0dVS3o1TmkzY2JWdmt3NjVZWkExa3V5bDJYWWxmNTFnM3BoRktjTHZIbVlCMzZVb0RmQi15VWZTUURFdm9Mdk1pR0NFS3pmTFNKS3lEckhmTUxHYU8?oc=5": {
+   "t": "47a58e6dbb57e6d7",
+   "d": "2026-09-07"
+  },
+  "47a58e6dbb57e6d7": {
+   "t": "47a58e6dbb57e6d7",
+   "d": "2026-09-07"
+  },
+  "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTHhyeVhuY05rWE9uWlV2NG1WNS1fejBrendIQWJmZDF4czk1SjhaTktjYWx4QWMyQkFzckg4aktJZzVCNzNpZVJmYmtwVFhraE85OWxFOXZtM2ZZYWI5NUtDa0lSeUxKa2pncERTLWFNTmhDMUYtNnJPTXVCRVNXaElESjZDUQ?oc=5": {
+   "t": "ee3f15d6c8c31aab",
+   "d": "2026-09-07"
+  },
+  "ee3f15d6c8c31aab": {
+   "t": "ee3f15d6c8c31aab",
+   "d": "2026-09-07"
+  },
+  "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WSDBkZEJPRXNzekRsREdYZlVMV0dVNF9LQ0NUTjlvQlo2UlNzZnROR2V3WGpmVkhoSHdGZVBEc2xSWlF4bzVIX1FpazdSaS1NUlZuemlBd3R3dHljVm1RdE83QnBYZDQ1b3VTWTdOanM3SEtRRVF5TFBtd9IBgwFBVV95cUxOLXc1Rm4yU0piR3FSVVFiM205bnREaVhYNUZZQ0hMN2RMWTdacGVnYWdvM2Q4UzhGbDkwV1dUSzBETnNWMVowbHEwaWJGM0JacDhDdGpWWFo1bVBzRGRZU180UEhUQmpkc2o0czFoLTUtYWx6TlBCTGdTLWw1bGpMYWw2aw?oc=5": {
+   "t": "e62ff7f67b48c372",
+   "d": "2026-09-07"
+  },
+  "e62ff7f67b48c372": {
+   "t": "e62ff7f67b48c372",
+   "d": "2026-09-07"
   }
  },
  "last_run": {
-  "date": "2026-09-03",
+  "date": "2026-09-07",
   "added": {
    "fit": 1,
-   "watch": 3,
-   "reject": 22
+   "watch": 4,
+   "reject": 5
   }
  }
 }
