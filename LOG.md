@@ -11,3 +11,6 @@
 
 ## 2026-09-10
 2 candidates, 0 fit, 0 watch, 2 reject; failed sources: acdf-news
+
+## 2026-09-10 — 82caf697f35d58fb
+1 candidates; {'fit': 0, 'watch': 0, 'reject': 1}; failed sources: ['wkcda-tenders', 'biennial-foundation-open-calls']
