@@ -1,180 +1,179 @@
 {
-  "ran_at": "2026-09-08T03:58:25+00:00",
-  "candidates": 2,
-  "overflow_dropped": 0,
-  "sources": [
-    {
-      "id": "gnews-rfp-exhibition-asia",
-      "ok": true,
-      "items": 7,
-      "new": 0,
-      "secs": 1.0
-    },
-    {
-      "id": "gnews-cfp-sea",
-      "ok": true,
-      "items": 54,
-      "new": 2,
-      "secs": 1.3
-    },
-    {
-      "id": "gnews-tender-exhibition-asia",
-      "ok": true,
-      "items": 75,
-      "new": 0,
-      "secs": 1.3
-    },
-    {
-      "id": "gnews-dbf",
-      "ok": true,
-      "items": 100,
-      "new": 0,
-      "secs": 1.4
-    },
-    {
-      "id": "gnews-acdf",
-      "ok": true,
-      "items": 100,
-      "new": 0,
-      "secs": 1.3
-    },
-    {
-      "id": "gnews-qatar-culture-tender",
-      "ok": true,
-      "items": 16,
-      "new": 0,
-      "secs": 0.9
-    },
-    {
-      "id": "gnews-ksa-culture-tender",
-      "ok": true,
-      "items": 46,
-      "new": 0,
-      "secs": 1.1
-    },
-    {
-      "id": "gnews-unesco-sea",
-      "ok": true,
-      "items": 3,
-      "new": 0,
-      "secs": 0.9
-    },
-    {
-      "id": "gnews-vietnam-cultural",
-      "ok": true,
-      "items": 37,
-      "new": 0,
-      "secs": 1.0
-    },
-    {
-      "id": "gnews-cultural-institutes-sea",
-      "ok": true,
-      "items": 47,
-      "new": 0,
-      "secs": 1.1
-    },
-    {
-      "id": "gnews-biennale-rfp-global",
-      "ok": true,
-      "items": 76,
-      "new": 0,
-      "secs": 1.2
-    },
-    {
-      "id": "gnews-art-handling-tender",
-      "ok": true,
-      "items": 34,
-      "new": 0,
-      "secs": 0.9
-    },
-    {
-      "id": "gnews-museum-procurement-gulf-asia",
-      "ok": true,
-      "items": 72,
-      "new": 0,
-      "secs": 1.5
-    },
-    {
-      "id": "on-the-move",
-      "ok": true,
-      "items": 0,
-      "new": 0,
-      "secs": 2.3
-    },
-    {
-      "id": "callforcurators",
-      "ok": true,
-      "items": 29,
-      "new": 0,
-      "secs": 3.0
-    },
-    {
-      "id": "resartis",
-      "ok": true,
-      "items": 0,
-      "new": 0,
-      "secs": 1.0
-    },
-    {
-      "id": "acdf-news",
-      "ok": true,
-      "items": 17,
-      "new": 0,
-      "secs": 1.7
-    },
-    {
-      "id": "qf-tenders",
-      "ok": true,
-      "items": 0,
-      "new": 0,
-      "secs": 5.3
-    },
-    {
-      "id": "nac-sg-tenders",
-      "ok": true,
-      "items": 0,
-      "new": 0,
-      "secs": 1.0
-    },
-    {
-      "id": "ungm-notices",
-      "ok": true,
-      "items": 0,
-      "new": 0,
-      "secs": 3.3
-    },
-    {
-      "id": "sharjah-art-foundation",
-      "ok": true,
-      "items": 3,
-      "new": 0,
-      "secs": 3.9
-    },
-    {
-      "id": "dbf-site",
-      "ok": true,
-      "items": 0,
-      "new": 0,
-      "secs": 2.0
-    },
-    {
-      "id": "wkcda-tenders",
-      "ok": false,
-      "optional": true,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
-    },
-    {
-      "id": "biennial-foundation-open-calls",
-      "ok": false,
-      "optional": true,
-      "error": "HTTPError: HTTP Error 404: Not Found"
-    },
-    {
-      "id": "unesco-procurement",
-      "ok": true,
-      "items": 0,
-      "new": 0,
-      "secs": 1.7
-    }
-  ]
+ "ran_at": "2026-09-10T01:08:32+00:00",
+ "candidates": 2,
+ "overflow_dropped": 0,
+ "sources": [
+  {
+   "id": "gnews-rfp-exhibition-asia",
+   "ok": true,
+   "items": 7,
+   "new": 0,
+   "secs": 1.1
+  },
+  {
+   "id": "gnews-cfp-sea",
+   "ok": true,
+   "items": 41,
+   "new": 0,
+   "secs": 1.1
+  },
+  {
+   "id": "gnews-tender-exhibition-asia",
+   "ok": true,
+   "items": 76,
+   "new": 0,
+   "secs": 1.3
+  },
+  {
+   "id": "gnews-dbf",
+   "ok": true,
+   "items": 100,
+   "new": 0,
+   "secs": 0.9
+  },
+  {
+   "id": "gnews-acdf",
+   "ok": true,
+   "items": 100,
+   "new": 0,
+   "secs": 1.0
+  },
+  {
+   "id": "gnews-qatar-culture-tender",
+   "ok": true,
+   "items": 17,
+   "new": 0,
+   "secs": 0.9
+  },
+  {
+   "id": "gnews-ksa-culture-tender",
+   "ok": true,
+   "items": 49,
+   "new": 0,
+   "secs": 1.0
+  },
+  {
+   "id": "gnews-unesco-sea",
+   "ok": true,
+   "items": 5,
+   "new": 0,
+   "secs": 1.0
+  },
+  {
+   "id": "gnews-vietnam-cultural",
+   "ok": true,
+   "items": 34,
+   "new": 0,
+   "secs": 1.0
+  },
+  {
+   "id": "gnews-cultural-institutes-sea",
+   "ok": true,
+   "items": 51,
+   "new": 0,
+   "secs": 1.3
+  },
+  {
+   "id": "gnews-biennale-rfp-global",
+   "ok": true,
+   "items": 77,
+   "new": 1,
+   "secs": 1.4
+  },
+  {
+   "id": "gnews-art-handling-tender",
+   "ok": true,
+   "items": 35,
+   "new": 0,
+   "secs": 0.8
+  },
+  {
+   "id": "gnews-museum-procurement-gulf-asia",
+   "ok": true,
+   "items": 75,
+   "new": 1,
+   "secs": 1.2
+  },
+  {
+   "id": "on-the-move",
+   "ok": true,
+   "items": 0,
+   "new": 0,
+   "secs": 1.6
+  },
+  {
+   "id": "callforcurators",
+   "ok": true,
+   "items": 29,
+   "new": 0,
+   "secs": 2.2
+  },
+  {
+   "id": "resartis",
+   "ok": true,
+   "items": 0,
+   "new": 0,
+   "secs": 1.5
+  },
+  {
+   "id": "acdf-news",
+   "ok": false,
+   "optional": false,
+   "error": "URLError: <urlopen error [Errno 104] Connection reset by peer>"
+  },
+  {
+   "id": "qf-tenders",
+   "ok": true,
+   "items": 0,
+   "new": 0,
+   "secs": 2.4
+  },
+  {
+   "id": "nac-sg-tenders",
+   "ok": true,
+   "items": 0,
+   "new": 0,
+   "secs": 3.0
+  },
+  {
+   "id": "ungm-notices",
+   "ok": true,
+   "items": 0,
+   "new": 0,
+   "secs": 1.4
+  },
+  {
+   "id": "sharjah-art-foundation",
+   "ok": true,
+   "items": 3,
+   "new": 0,
+   "secs": 2.6
+  },
+  {
+   "id": "dbf-site",
+   "ok": true,
+   "items": 0,
+   "new": 0,
+   "secs": 1.6
+  },
+  {
+   "id": "wkcda-tenders",
+   "ok": false,
+   "optional": true,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "id": "biennial-foundation-open-calls",
+   "ok": false,
+   "optional": true,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "id": "unesco-procurement",
+   "ok": true,
+   "items": 14,
+   "new": 0,
+   "secs": 1.7
+  }
+ ]
 }
