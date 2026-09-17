@@ -667,6 +667,26 @@
       "eligibility": "",
       "why": "Historical tender: official project notice states applications closed at noon on 2 November 2023, well over 14 days ago.",
       "first_seen": "2026-09-10"
+    },
+    {
+      "title": "Department of Arts and Culture awards wellness tender to an advertising company - news24.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMldEMXQ4R3FuTXRzeUpQeEhPYklYY0ltTzNfclVMdGgwbXh4cnN3aWNueUFsZnd5MzNRS1M3MFFrNks0c1BBeFFWbmt0Z1hsajIzZHZjMUZ1OE1VdFh1OFRmS0F6TE9YcHM4UmxadU9GWkVycGFISDNPb2RnZ1FhRm5pMktrUWFjQVZUcGZOd0lCaDBNdWlnUmd6UUJqWkJUd3FxQ1hyZ09iS09EbmRhUzQ0TEJETW44RHREajZKMDc4VlV1TmxyZ29WZUtIOW5oVHNEQks5bnE5anBqV05v?oc=5",
+      "summary": "Department of Arts and Culture awards wellness tender to an advertising company news24.com",
+      "published": "Wed, 05 Aug 2020 07:00:00 GMT",
+      "publisher": "news24.com",
+      "id": "ae5a41d3c94fd75e",
+      "key": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMldEMXQ4R3FuTXRzeUpQeEhPYklYY0ltTzNfclVMdGgwbXh4cnN3aWNueUFsZnd5MzNRS1M3MFFrNks0c1BBeFFWbmt0Z1hsajIzZHZjMUZ1OE1VdFh1OFRmS0F6TE9YcHM4UmxadU9GWkVycGFISDNPb2RnZ1FhRm5pMktrUWFjQVZUcGZOd0lCaDBNdWlnUmd6UUJqWkJUd3FxQ1hyZ09iS09EbmRhUzQ0TEJETW44RHREajZKMDc4VlV1TmxyZ29WZUtIOW5oVHNEQks5bnE5anBqV05v?oc=5",
+      "source": "gnews-biennale-rfp-global",
+      "score": 9,
+      "verdict": "reject",
+      "route": "",
+      "issuer": "",
+      "country": "",
+      "deadline": "",
+      "scope": "",
+      "eligibility": "",
+      "why": "Title and summary describe an already awarded wellness tender, not an open art-production or cultural-management opportunity; news item published 5 August 2020. No page fetch needed.",
+      "first_seen": "2026-09-17"
     }
   ],
   "seen": {
@@ -997,14 +1017,22 @@
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVmpuYnBnX3dQd1E3SDdPbXN1MW5LbkVVQy1NR2Mzd1RPTFEwWmJJejRTS3U1LXpsUE1hQkpPazVBMWFJaVQwUjhGV3ExQXhIQXNwcm10WWlKQjFtOFZzQUxCT2dGQTBJSDJFcnJ3eVl6UlRRVlpXeTVMSXRuWWxXbDVEZWtpVkhFc19QY3JWd21lV05jUmQxcEdUOTVSeDJKLVNnUmJPc0Jkb3p4Y1FnN2Nub1dVeGktSUpLTUd3M1hRNTlwSXlRaWxOdzhIbUs1bmNsRQ?oc=5": {
       "t": "a99c2285645f2fe1",
       "d": "2026-09-10"
+    },
+    "ae5a41d3c94fd75e": {
+      "t": "ae5a41d3c94fd75e",
+      "d": "2026-09-17"
+    },
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMldEMXQ4R3FuTXRzeUpQeEhPYklYY0ltTzNfclVMdGgwbXh4cnN3aWNueUFsZnd5MzNRS1M3MFFrNks0c1BBeFFWbmt0Z1hsajIzZHZjMUZ1OE1VdFh1OFRmS0F6TE9YcHM4UmxadU9GWkVycGFISDNPb2RnZ1FhRm5pMktrUWFjQVZUcGZOd0lCaDBNdWlnUmd6UUJqWkJUd3FxQ1hyZ09iS09EbmRhUzQ0TEJETW44RHREajZKMDc4VlV1TmxyZ29WZUtIOW5oVHNEQks5bnE5anBqV05v?oc=5": {
+      "t": "ae5a41d3c94fd75e",
+      "d": "2026-09-17"
     }
   },
   "last_run": {
-    "date": "2026-09-14",
+    "date": "2026-09-17",
     "added": {
       "fit": 0,
       "watch": 0,
-      "reject": 0
+      "reject": 1
     }
   }
 }
