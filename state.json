@@ -1028,11 +1028,11 @@
     }
   },
   "last_run": {
-    "date": "2026-09-17",
+    "date": "2026-09-21",
     "added": {
       "fit": 0,
       "watch": 0,
-      "reject": 1
+      "reject": 0
     }
   }
 }
