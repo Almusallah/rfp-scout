@@ -23,3 +23,6 @@
 
 ## 2026-09-21 — 579ff678e18749b5
 0 candidates; {'fit': 0, 'watch': 0, 'reject': 0}; failed sources: ['wkcda-tenders', 'biennial-foundation-open-calls']
+
+## 2026-09-25 — 2f07308a82d1a0d5
+2 candidates; {'fit': 0, 'watch': 1, 'reject': 1}; failed sources: ['wkcda-tenders', 'biennial-foundation-open-calls']

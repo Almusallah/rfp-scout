@@ -687,6 +687,46 @@
       "eligibility": "",
       "why": "Title and summary describe an already awarded wellness tender, not an open art-production or cultural-management opportunity; news item published 5 August 2020. No page fetch needed.",
       "first_seen": "2026-09-17"
+    },
+    {
+      "title": "Call for Proposals: Organizing Teacher’s Training on Bringing Living Heritage to Classroom in Southern Thailand - UNESCO",
+      "url": "https://www.unesco.org/en/articles/call-proposals-organizing-teachers-training-bringing-living-heritage-classroom-southern-thailand",
+      "summary": "Call for Proposals: Organizing Teacher’s Training on Bringing Living Heritage to Classroom in Southern Thailand UNESCO",
+      "published": "Tue, 14 Jan 2025 08:00:00 GMT",
+      "publisher": "UNESCO",
+      "id": "6202b70248fbaa78",
+      "key": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYnZ2X09VS2k5ZmxVLTV1UGotb2JLalRJRnJIWHBwMTkwWk8zbWwyeHY2OXNNWnp0VXdTNEpFZDlYOEgtVjFqQkdadVVHak1nU3VXbkxyY2k2QVVZUEFhcmRQU3h2S3ZWaE9xUHE1ZkVGTGJ2d0ZVQmY2S3BNYXliVzhabzBuUFlOZkxZc05uNUFTSnJ4N1ViSl9EVmkxZ3dVek5vaG96VE5JVHF6MGFnR0xZMjJzY2I1dElYT2dYaFJPUjBVQWIzMkVOQQ?oc=5",
+      "source": "gnews-cfp-sea",
+      "score": 10,
+      "verdict": "reject",
+      "route": "",
+      "issuer": "UNESCO Regional Office in Bangkok",
+      "country": "Thailand",
+      "deadline": "2025-02-04",
+      "scope": "Organize teacher training and mentoring on integrating living heritage into classrooms in southern Thailand.",
+      "eligibility": "",
+      "why": "Official notice confirms extended deadline of 4 February 2025; long expired. Shell fetch blocked; verified through web retrieval.",
+      "first_seen": "2026-09-25"
+    },
+    {
+      "title": "Doha Design District Announces Four Winning Projects of Its Public Art Open Call - Fana News -",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVU9zTTF5RERMM1dYWDYyVmVEU19MdGd0Q1N4Z2twX1M5cFBuN3hrcTY5SGpZVkthUVFBcUllNGRibnRNNjZPZ3VPQWhacXhfNDIxLTlaV0FCXzhYb2ZPbXhZMGEyM3F1Z0Q1V0Y3aUhMYnM0N1RRSjM2VjJlQjIyVURmWGRXdnRJWGZnQzItMzVsdnozYjF0QUpSU2dJVTN4bmhkSjV0UDZhYTBZSkhHTXViWVF3ZGh3c0E?oc=5",
+      "summary": "Doha Design District Announces Four Winning Projects of Its Public Art Open Call Fana News -",
+      "published": "Wed, 12 Aug 2026 13:33:33 GMT",
+      "publisher": "Fana News -",
+      "id": "a4762af25270f046",
+      "key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVU9zTTF5RERMM1dYWDYyVmVEU19MdGd0Q1N4Z2twX1M5cFBuN3hrcTY5SGpZVkthUVFBcUllNGRibnRNNjZPZ3VPQWhacXhfNDIxLTlaV0FCXzhYb2ZPbXhZMGEyM3F1Z0Q1V0Y3aUhMYnM0N1RRSjM2VjJlQjIyVURmWGRXdnRJWGZnQzItMzVsdnozYjF0QUpSU2dJVTN4bmhkSjV0UDZhYTBZSkhHTXViWVF3ZGh3c0E?oc=5",
+      "source": "gnews-qatar-culture-tender",
+      "score": 10,
+      "verdict": "watch",
+      "route": "subcontract",
+      "issuer": "",
+      "country": "Qatar",
+      "deadline": "",
+      "scope": "",
+      "eligibility": "Potential art-production or installation support to selected public-art project teams; subcontract availability and partner requirements unverified.",
+      "why": "Title-only watch: four public-art projects selected in Doha. Original call is awarded; no open bid evidenced. Retain only as a possible production subcontract lead under the partnership policy, not a confirmed opportunity. No page fetched.",
+      "first_seen": "2026-09-25"
     }
   ],
   "seen": {
@@ -1025,14 +1065,30 @@
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMldEMXQ4R3FuTXRzeUpQeEhPYklYY0ltTzNfclVMdGgwbXh4cnN3aWNueUFsZnd5MzNRS1M3MFFrNks0c1BBeFFWbmt0Z1hsajIzZHZjMUZ1OE1VdFh1OFRmS0F6TE9YcHM4UmxadU9GWkVycGFISDNPb2RnZ1FhRm5pMktrUWFjQVZUcGZOd0lCaDBNdWlnUmd6UUJqWkJUd3FxQ1hyZ09iS09EbmRhUzQ0TEJETW44RHREajZKMDc4VlV1TmxyZ29WZUtIOW5oVHNEQks5bnE5anBqV05v?oc=5": {
       "t": "ae5a41d3c94fd75e",
       "d": "2026-09-17"
+    },
+    "6202b70248fbaa78": {
+      "t": "6202b70248fbaa78",
+      "d": "2026-09-25"
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYnZ2X09VS2k5ZmxVLTV1UGotb2JLalRJRnJIWHBwMTkwWk8zbWwyeHY2OXNNWnp0VXdTNEpFZDlYOEgtVjFqQkdadVVHak1nU3VXbkxyY2k2QVVZUEFhcmRQU3h2S3ZWaE9xUHE1ZkVGTGJ2d0ZVQmY2S3BNYXliVzhabzBuUFlOZkxZc05uNUFTSnJ4N1ViSl9EVmkxZ3dVek5vaG96VE5JVHF6MGFnR0xZMjJzY2I1dElYT2dYaFJPUjBVQWIzMkVOQQ?oc=5": {
+      "t": "6202b70248fbaa78",
+      "d": "2026-09-25"
+    },
+    "a4762af25270f046": {
+      "t": "a4762af25270f046",
+      "d": "2026-09-25"
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVU9zTTF5RERMM1dYWDYyVmVEU19MdGd0Q1N4Z2twX1M5cFBuN3hrcTY5SGpZVkthUVFBcUllNGRibnRNNjZPZ3VPQWhacXhfNDIxLTlaV0FCXzhYb2ZPbXhZMGEyM3F1Z0Q1V0Y3aUhMYnM0N1RRSjM2VjJlQjIyVURmWGRXdnRJWGZnQzItMzVsdnozYjF0QUpSU2dJVTN4bmhkSjV0UDZhYTBZSkhHTXViWVF3ZGh3c0E?oc=5": {
+      "t": "a4762af25270f046",
+      "d": "2026-09-25"
     }
   },
   "last_run": {
-    "date": "2026-09-21",
+    "date": "2026-09-25",
     "added": {
       "fit": 0,
-      "watch": 0,
-      "reject": 0
+      "watch": 1,
+      "reject": 1
     }
   }
 }
