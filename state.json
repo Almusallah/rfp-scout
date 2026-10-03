@@ -727,6 +727,46 @@
       "eligibility": "Potential art-production or installation support to selected public-art project teams; subcontract availability and partner requirements unverified.",
       "why": "Title-only watch: four public-art projects selected in Doha. Original call is awarded; no open bid evidenced. Retain only as a possible production subcontract lead under the partnership policy, not a confirmed opportunity. No page fetched.",
       "first_seen": "2026-09-25"
+    },
+    {
+      "title": "NTPC Ltd invites tender Biennial Maintenance Contract for C and I Systems - PSU Connect",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTmZYRi1NRDBuTWEwV2g0V2NhbDRpVzY4bXg0UDVQT1VQZElBZUk1X1F6X1UtSkFHNGFhZGJVLWNTMjZ2MDg1b2RMaHY0NTgtazVYNmVfb1VLZEd3VlZ2Rzl4ZnotdFJvcllleUZtRnNzdnVwUEk1RjhZMXFQcGR5TkpKQ0tzRk5kenlPSVFKNTlISHZQR2VEbC1Fc09KQVJyanRDbE5KaUhTQlpT?oc=5",
+      "summary": "NTPC Ltd invites tender Biennial Maintenance Contract for C and I Systems PSU Connect",
+      "published": "Mon, 22 Dec 2025 08:00:00 GMT",
+      "publisher": "PSU Connect",
+      "id": "20b9e81a331569b0",
+      "key": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTmZYRi1NRDBuTWEwV2g0V2NhbDRpVzY4bXg0UDVQT1VQZElBZUk1X1F6X1UtSkFHNGFhZGJVLWNTMjZ2MDg1b2RMaHY0NTgtazVYNmVfb1VLZEd3VlZ2Rzl4ZnotdFJvcllleUZtRnNzdnVwUEk1RjhZMXFQcGR5TkpKQ0tzRk5kenlPSVFKNTlISHZQR2VEbC1Fc09KQVJyanRDbE5KaUhTQlpT?oc=5",
+      "source": "gnews-biennale-rfp-global",
+      "score": 9,
+      "verdict": "reject",
+      "route": "",
+      "issuer": "",
+      "country": "",
+      "deadline": "",
+      "scope": "",
+      "eligibility": "",
+      "why": "Industrial C and I systems maintenance has no evidenced art or cultural scope; biennial describes contract frequency, not an arts biennale. Classified from title and summary.",
+      "first_seen": "2026-10-03"
+    },
+    {
+      "title": "NL architects wins tender for ArtA arnhem cultural center - Designboom",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMmFGN08yNGJhU1JZNlQ2TlNpN1IyVGVZaDBYYmREOXNqVlJoQzhWczF1RzBrNkstVFpONVRJRWdtSFB1UHd4RWJaaHBwRDBSVmp6aGZhcW56Y3pHNDN0cmgxaHBnbDN2d3RmUnB5QTlFcERPZmtaTHdIQldrN082bzBGMVJUVGVWV2FCWHRZaDRGSDhfUkJ4WA?oc=5",
+      "summary": "NL architects wins tender for ArtA arnhem cultural center Designboom",
+      "published": "Tue, 17 Jun 2014 07:00:00 GMT",
+      "publisher": "Designboom",
+      "id": "fa3c5b534e8ad82a",
+      "key": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMmFGN08yNGJhU1JZNlQ2TlNpN1IyVGVZaDBYYmREOXNqVlJoQzhWczF1RzBrNkstVFpONVRJRWdtSFB1UHd4RWJaaHBwRDBSVmp6aGZhcW56Y3pHNDN0cmgxaHBnbDN2d3RmUnB5QTlFcERPZmtaTHdIQldrN082bzBGMVJUVGVWV2FCWHRZaDRGSDhfUkJ4WA?oc=5",
+      "source": "gnews-biennale-rfp-global",
+      "score": 6,
+      "verdict": "reject",
+      "route": "",
+      "issuer": "",
+      "country": "",
+      "deadline": "",
+      "scope": "",
+      "eligibility": "",
+      "why": "Historical 2014 architecture tender award outside target geography, with no current open opportunity or evidenced art-production subcontract scope. Classified from title, summary and publication date.",
+      "first_seen": "2026-10-03"
     }
   ],
   "seen": {
@@ -1081,14 +1121,30 @@
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVU9zTTF5RERMM1dYWDYyVmVEU19MdGd0Q1N4Z2twX1M5cFBuN3hrcTY5SGpZVkthUVFBcUllNGRibnRNNjZPZ3VPQWhacXhfNDIxLTlaV0FCXzhYb2ZPbXhZMGEyM3F1Z0Q1V0Y3aUhMYnM0N1RRSjM2VjJlQjIyVURmWGRXdnRJWGZnQzItMzVsdnozYjF0QUpSU2dJVTN4bmhkSjV0UDZhYTBZSkhHTXViWVF3ZGh3c0E?oc=5": {
       "t": "a4762af25270f046",
       "d": "2026-09-25"
+    },
+    "20b9e81a331569b0": {
+      "t": "20b9e81a331569b0",
+      "d": "2026-10-03"
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTmZYRi1NRDBuTWEwV2g0V2NhbDRpVzY4bXg0UDVQT1VQZElBZUk1X1F6X1UtSkFHNGFhZGJVLWNTMjZ2MDg1b2RMaHY0NTgtazVYNmVfb1VLZEd3VlZ2Rzl4ZnotdFJvcllleUZtRnNzdnVwUEk1RjhZMXFQcGR5TkpKQ0tzRk5kenlPSVFKNTlISHZQR2VEbC1Fc09KQVJyanRDbE5KaUhTQlpT?oc=5": {
+      "t": "20b9e81a331569b0",
+      "d": "2026-10-03"
+    },
+    "fa3c5b534e8ad82a": {
+      "t": "fa3c5b534e8ad82a",
+      "d": "2026-10-03"
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMmFGN08yNGJhU1JZNlQ2TlNpN1IyVGVZaDBYYmREOXNqVlJoQzhWczF1RzBrNkstVFpONVRJRWdtSFB1UHd4RWJaaHBwRDBSVmp6aGZhcW56Y3pHNDN0cmgxaHBnbDN2d3RmUnB5QTlFcERPZmtaTHdIQldrN082bzBGMVJUVGVWV2FCWHRZaDRGSDhfUkJ4WA?oc=5": {
+      "t": "fa3c5b534e8ad82a",
+      "d": "2026-10-03"
     }
   },
   "last_run": {
-    "date": "2026-09-28",
+    "date": "2026-10-03",
     "added": {
       "fit": 0,
       "watch": 0,
-      "reject": 0
+      "reject": 2
     }
   }
 }
