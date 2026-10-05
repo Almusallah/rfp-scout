@@ -767,6 +767,26 @@
       "eligibility": "",
       "why": "Historical 2014 architecture tender award outside target geography, with no current open opportunity or evidenced art-production subcontract scope. Classified from title, summary and publication date.",
       "first_seen": "2026-10-03"
+    },
+    {
+      "title": "Central Bank of Kuwait museum and support-building rehabilitation — tender approval",
+      "url": "https://timeskuwait.com/capt-approves-tender-for-cbk-museum-building-rehabilitation/",
+      "summary": "CAPT approves tender for CBK museum, building rehabilitation Times Kuwait",
+      "published": "Sun, 04 Oct 2026 18:07:37 GMT",
+      "publisher": "Times Kuwait",
+      "id": "7da5e2663ad16e49",
+      "key": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmk4QVl5YkQ4QVhBeEN3c2R2RlI5Z2w2NHY3WkFxUDVQSjBjSEc4b3ZQVW5xSmtyaWR3dWs2TjJGdW1NZXNVTWlGVTFtbkptYVJ6cWY3dzBxTGMydkt2U04zQUNwWGwzXzhHYTZQMWh1MDQwRlB4UE8yTkp6cEpLZEtDMTkydWx3VWFvUQ?oc=5",
+      "source": "gnews-museum-procurement-gulf-asia",
+      "score": 10,
+      "verdict": "watch",
+      "route": "subcontract",
+      "issuer": "",
+      "country": "Kuwait",
+      "deadline": "",
+      "scope": "Rehabilitate the Central Bank of Kuwait support building and establish a bank museum, with a reported 730-day implementation period.",
+      "eligibility": "Potential route through a museum fit-out or construction prime; tender eligibility, prime contractor and exhibition-production packages not stated.",
+      "why": "News dated 4 October 2026 reports CAPT approval for a CBK museum project. Relevant museum subcontract watch; open-bid status, deadline and art-production scope remain unverified. Source page read; no primary notice identified.",
+      "first_seen": "2026-10-05"
     }
   ],
   "seen": {
@@ -1137,14 +1157,22 @@
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMmFGN08yNGJhU1JZNlQ2TlNpN1IyVGVZaDBYYmREOXNqVlJoQzhWczF1RzBrNkstVFpONVRJRWdtSFB1UHd4RWJaaHBwRDBSVmp6aGZhcW56Y3pHNDN0cmgxaHBnbDN2d3RmUnB5QTlFcERPZmtaTHdIQldrN082bzBGMVJUVGVWV2FCWHRZaDRGSDhfUkJ4WA?oc=5": {
       "t": "fa3c5b534e8ad82a",
       "d": "2026-10-03"
+    },
+    "7da5e2663ad16e49": {
+      "t": "7da5e2663ad16e49",
+      "d": "2026-10-05"
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmk4QVl5YkQ4QVhBeEN3c2R2RlI5Z2w2NHY3WkFxUDVQSjBjSEc4b3ZQVW5xSmtyaWR3dWs2TjJGdW1NZXNVTWlGVTFtbkptYVJ6cWY3dzBxTGMydkt2U04zQUNwWGwzXzhHYTZQMWh1MDQwRlB4UE8yTkp6cEpLZEtDMTkydWx3VWFvUQ?oc=5": {
+      "t": "7da5e2663ad16e49",
+      "d": "2026-10-05"
     }
   },
   "last_run": {
-    "date": "2026-10-03",
+    "date": "2026-10-05",
     "added": {
       "fit": 0,
-      "watch": 0,
-      "reject": 2
+      "watch": 1,
+      "reject": 0
     }
   }
 }

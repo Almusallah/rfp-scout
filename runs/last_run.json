@@ -1,6 +1,6 @@
 {
-  "ran_at": "2026-10-03T08:34:17+00:00",
-  "candidates": 2,
+  "ran_at": "2026-10-05T05:37:26+00:00",
+  "candidates": 1,
   "overflow_dropped": 0,
   "sources": [
     {
@@ -8,154 +8,154 @@
       "ok": true,
       "items": 7,
       "new": 0,
-      "secs": 1.1
+      "secs": 0.8
     },
     {
       "id": "gnews-cfp-sea",
       "ok": true,
-      "items": 40,
+      "items": 41,
       "new": 0,
-      "secs": 1.4
+      "secs": 0.9
     },
     {
       "id": "gnews-tender-exhibition-asia",
       "ok": true,
       "items": 76,
       "new": 0,
-      "secs": 1.8
+      "secs": 2.0
     },
     {
       "id": "gnews-dbf",
       "ok": true,
       "items": 100,
       "new": 0,
-      "secs": 1.3
+      "secs": 1.1
     },
     {
       "id": "gnews-acdf",
       "ok": true,
       "items": 100,
       "new": 0,
-      "secs": 1.6
+      "secs": 1.5
     },
     {
       "id": "gnews-qatar-culture-tender",
       "ok": true,
-      "items": 20,
+      "items": 16,
       "new": 0,
       "secs": 0.9
     },
     {
       "id": "gnews-ksa-culture-tender",
       "ok": true,
-      "items": 45,
+      "items": 44,
       "new": 0,
-      "secs": 1.2
+      "secs": 0.9
     },
     {
       "id": "gnews-unesco-sea",
       "ok": true,
-      "items": 9,
+      "items": 5,
       "new": 0,
-      "secs": 2.6
+      "secs": 0.6
     },
     {
       "id": "gnews-vietnam-cultural",
       "ok": true,
       "items": 29,
       "new": 0,
-      "secs": 2.2
+      "secs": 1.0
     },
     {
       "id": "gnews-cultural-institutes-sea",
       "ok": true,
-      "items": 34,
+      "items": 33,
       "new": 0,
-      "secs": 1.9
+      "secs": 1.1
     },
     {
       "id": "gnews-biennale-rfp-global",
       "ok": true,
-      "items": 57,
-      "new": 2,
-      "secs": 1.3
+      "items": 53,
+      "new": 0,
+      "secs": 1.1
     },
     {
       "id": "gnews-art-handling-tender",
       "ok": true,
-      "items": 36,
+      "items": 34,
       "new": 0,
-      "secs": 1.9
+      "secs": 0.9
     },
     {
       "id": "gnews-museum-procurement-gulf-asia",
       "ok": true,
-      "items": 71,
-      "new": 0,
-      "secs": 1.2
+      "items": 70,
+      "new": 1,
+      "secs": 1.1
     },
     {
       "id": "on-the-move",
       "ok": true,
       "items": 0,
       "new": 0,
-      "secs": 7.0
+      "secs": 3.0
     },
     {
       "id": "callforcurators",
       "ok": true,
       "items": 29,
       "new": 0,
-      "secs": 3.4
+      "secs": 3.0
     },
     {
       "id": "resartis",
       "ok": true,
       "items": 0,
       "new": 0,
-      "secs": 11.0
+      "secs": 0.4
     },
     {
       "id": "acdf-news",
       "ok": true,
       "items": 17,
       "new": 0,
-      "secs": 4.2
+      "secs": 1.9
     },
     {
       "id": "qf-tenders",
       "ok": true,
       "items": 0,
       "new": 0,
-      "secs": 8.9
+      "secs": 5.3
     },
     {
       "id": "nac-sg-tenders",
       "ok": true,
       "items": 0,
       "new": 0,
-      "secs": 1.0
+      "secs": 1.1
     },
     {
       "id": "ungm-notices",
       "ok": true,
       "items": 0,
       "new": 0,
-      "secs": 2.7
+      "secs": 2.9
     },
     {
       "id": "sharjah-art-foundation",
       "ok": true,
       "items": 2,
       "new": 0,
-      "secs": 3.8
+      "secs": 4.7
     },
     {
       "id": "dbf-site",
       "ok": true,
       "items": 0,
       "new": 0,
-      "secs": 2.2
+      "secs": 1.7
     },
     {
       "id": "wkcda-tenders",
@@ -174,7 +174,7 @@
       "ok": true,
       "items": 0,
       "new": 0,
-      "secs": 1.9
+      "secs": 1.6
     }
   ]
 }
