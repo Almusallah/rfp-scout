@@ -787,6 +787,26 @@
       "eligibility": "Potential route through a museum fit-out or construction prime; tender eligibility, prime contractor and exhibition-production packages not stated.",
       "why": "News dated 4 October 2026 reports CAPT approval for a CBK museum project. Relevant museum subcontract watch; open-bid status, deadline and art-production scope remain unverified. Source page read; no primary notice identified.",
       "first_seen": "2026-10-05"
+    },
+    {
+      "title": "Calls for Venice Biennale 2023 Expressions of Interest - Canadian Architect",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaDBjOHpacW1VZ29KVmVRRUtGQ2NZRmtPWEhSdlVkVmRnc0xadVdEMjdmY3VIbkhXZVp4ZEhrQ3dCaVVxQnoxSEZVWDU4em10RkFGSjZ6bkhHVzR1U0xBTEszUGY2SGhVSFJqRzJVenU2cDBSQXhSVUpiTzNabHNZSkFpbURtcWZXS25MUUx3?oc=5",
+      "summary": "Calls for Venice Biennale 2023 Expressions of Interest Canadian Architect",
+      "published": "Thu, 14 Oct 2021 07:00:00 GMT",
+      "publisher": "Canadian Architect",
+      "id": "4afcb513d9c665fd",
+      "key": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaDBjOHpacW1VZ29KVmVRRUtGQ2NZRmtPWEhSdlVkVmRnc0xadVdEMjdmY3VIbkhXZVp4ZEhrQ3dCaVVxQnoxSEZVWDU4em10RkFGSjZ6bkhHVzR1U0xBTEszUGY2SGhVSFJqRzJVenU2cDBSQXhSVUpiTzNabHNZSkFpbURtcWZXS25MUUx3?oc=5",
+      "source": "gnews-biennale-rfp-global",
+      "score": 9,
+      "verdict": "reject",
+      "route": "",
+      "issuer": "",
+      "country": "",
+      "deadline": "",
+      "scope": "",
+      "eligibility": "",
+      "why": "Historical expression of interest for the 2023 Venice Biennale, published in October 2021. Event is past; no current opportunity evidenced. Classified from title, summary and publication date; deadline not inferred.",
+      "first_seen": "2026-10-08"
     }
   ],
   "seen": {
@@ -1165,14 +1185,22 @@
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmk4QVl5YkQ4QVhBeEN3c2R2RlI5Z2w2NHY3WkFxUDVQSjBjSEc4b3ZQVW5xSmtyaWR3dWs2TjJGdW1NZXNVTWlGVTFtbkptYVJ6cWY3dzBxTGMydkt2U04zQUNwWGwzXzhHYTZQMWh1MDQwRlB4UE8yTkp6cEpLZEtDMTkydWx3VWFvUQ?oc=5": {
       "t": "7da5e2663ad16e49",
       "d": "2026-10-05"
+    },
+    "4afcb513d9c665fd": {
+      "t": "4afcb513d9c665fd",
+      "d": "2026-10-08"
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaDBjOHpacW1VZ29KVmVRRUtGQ2NZRmtPWEhSdlVkVmRnc0xadVdEMjdmY3VIbkhXZVp4ZEhrQ3dCaVVxQnoxSEZVWDU4em10RkFGSjZ6bkhHVzR1U0xBTEszUGY2SGhVSFJqRzJVenU2cDBSQXhSVUpiTzNabHNZSkFpbURtcWZXS25MUUx3?oc=5": {
+      "t": "4afcb513d9c665fd",
+      "d": "2026-10-08"
     }
   },
   "last_run": {
-    "date": "2026-10-05",
+    "date": "2026-10-08",
     "added": {
       "fit": 0,
-      "watch": 1,
-      "reject": 0
+      "watch": 0,
+      "reject": 1
     }
   }
 }
