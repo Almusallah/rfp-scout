@@ -1196,11 +1196,11 @@
     }
   },
   "last_run": {
-    "date": "2026-10-08",
+    "date": "2026-10-12",
     "added": {
       "fit": 0,
       "watch": 0,
-      "reject": 1
+      "reject": 0
     }
   }
 }
