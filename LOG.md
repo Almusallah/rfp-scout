@@ -44,3 +44,6 @@
 
 ## 2026-10-15 — f3816fc6a4d7bcbb
 12 candidates; {'fit': 0, 'watch': 3, 'reject': 9}; failed sources: ['wkcda-tenders', 'biennial-foundation-open-calls']
+
+## 2026-10-19 — 30f82dc04bfc4b57
+11 candidates; {'fit': 0, 'watch': 1, 'reject': 10}; failed sources: ['wkcda-tenders', 'biennial-foundation-open-calls']
