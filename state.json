@@ -1267,6 +1267,26 @@
       "eligibility": "",
       "why": "Event, visit or institutional discussion coverage; no current open call or production procurement evidenced from title. Page not fetched.",
       "first_seen": "2026-10-19"
+    },
+    {
+      "title": "UNESCO ICH Creative Content Contest 2026 — Malaysia",
+      "url": "https://www.unesco.org/en/articles/call-proposals-ich-creative-content-contest-2026-malaysia-extended",
+      "summary": "Call for Proposals – ICH Creative Content Contest 2026 (Malaysia) fundsforNGOs - Grants and Resources for Sustainability",
+      "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+      "publisher": "fundsforNGOs - Grants and Resources for Sustainability",
+      "id": "f06646a72b66d359",
+      "key": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU09YZGV2bkVvUm9qbVcySDJvZTk1MDBHVmpPLXk0X3Q5SF9ZOVJrRnFneXNROEJ1bmNzSFhtZ1oyZE5PaGpIbXppdkRRSDk0N3VsYkRaYTJnekh5Y3Bld2FDLXc0VVE0OUsyZjlXSXZQQ1dmbi1QcXRiRjNBVVNEY3pMamItbkZ2ck1hb1cxNHhzOW52Y2xqQVJaRkk2eV92Ry1va20yOGx5eHfSAbABQVVfeXFMTU1FLWkzY2JTU0I5eEM4RjVhQ2UwTDBXajBmMzd0VFJPUWZLUzdxeWd0eWxPSjB4R2JiOE5ESkVPMzdwbXR5LXFsZDhRWTNBMzMzQ0ptcWVjRkZReWktQXlDMkxUXy1TWVlZREZoNEhhWUFudldEeGxOY1lkR191aFRYUGNhSXhEOHJyMXdiNDRJUDlPTEZoVWdTNWI4OUJSUGNZb3o3X0NnUHoxUWwxSHU?oc=5",
+      "source": "gnews-cfp-sea",
+      "score": 10,
+      "verdict": "reject",
+      "issuer": "UNESCO Jakarta",
+      "country": "Malaysia",
+      "deadline": "2026-09-13",
+      "route": "partner-leads",
+      "scope": "Manage a heritage content contest, mentoring programme, public screening and awards ceremony.",
+      "eligibility": "Malaysia-based legal organization required; potential Malaysian prime route if reopened.",
+      "why": "Official UNESCO notice confirms extended deadline of 13 September 2026 at 23:59 Kuala Lumpur time, more than 14 days before this scan. Reject because closed, not because of local entity eligibility.",
+      "first_seen": "2026-10-22"
     }
   ],
   "seen": {
@@ -1837,14 +1857,22 @@
     "https://acdf.uz/en/news/gayane-umerova-and-grand-duchess-maria-vladimirovna-romanova-discuss-the-preservation-of-historical-heritage": {
       "t": "ecd796b545370c26",
       "d": "2026-10-19"
+    },
+    "f06646a72b66d359": {
+      "t": "f06646a72b66d359",
+      "d": "2026-10-22"
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU09YZGV2bkVvUm9qbVcySDJvZTk1MDBHVmpPLXk0X3Q5SF9ZOVJrRnFneXNROEJ1bmNzSFhtZ1oyZE5PaGpIbXppdkRRSDk0N3VsYkRaYTJnekh5Y3Bld2FDLXc0VVE0OUsyZjlXSXZQQ1dmbi1QcXRiRjNBVVNEY3pMamItbkZ2ck1hb1cxNHhzOW52Y2xqQVJaRkk2eV92Ry1va20yOGx5eHfSAbABQVVfeXFMTU1FLWkzY2JTU0I5eEM4RjVhQ2UwTDBXajBmMzd0VFJPUWZLUzdxeWd0eWxPSjB4R2JiOE5ESkVPMzdwbXR5LXFsZDhRWTNBMzMzQ0ptcWVjRkZReWktQXlDMkxUXy1TWVlZREZoNEhhWUFudldEeGxOY1lkR191aFRYUGNhSXhEOHJyMXdiNDRJUDlPTEZoVWdTNWI4OUJSUGNZb3o3X0NnUHoxUWwxSHU?oc=5": {
+      "t": "f06646a72b66d359",
+      "d": "2026-10-22"
     }
   },
   "last_run": {
-    "date": "2026-10-19",
+    "date": "2026-10-22",
     "added": {
       "fit": 0,
-      "watch": 1,
-      "reject": 10
+      "watch": 0,
+      "reject": 1
     }
   }
 }
