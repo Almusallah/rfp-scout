@@ -1407,6 +1407,46 @@
       "eligibility": "No supplier call, eligibility, production budget or deadline stated; potential production subcontract route remains unverified.",
       "why": "Official notice describes proposed exhibitions and museum exchanges; plans are exploratory. No open procurement evidenced; pre-announcement only.",
       "first_seen": "2026-10-26"
+    },
+    {
+      "title": "IFA x Folk Culture Museum — Creative and Scholarly Projects",
+      "url": "https://mail.indiaifa.org/whats-new/amp-rfp-ifa-fcm-july2026.html",
+      "summary": "Request for Proposals: IFA x Folk Culture Museum Creative (India) fundsforNGOs",
+      "published": "Thu, 27 Aug 2026 10:57:53 GMT",
+      "publisher": "fundsforNGOs",
+      "id": "e182a65bf7f2a7ed",
+      "key": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQnU3RS1nY3g0VnZfZmtUOVB2c1A1VjdMaEhERjk0TzM4bG1SNFBkUktsdmNtVmJqRFdfTUNsSmY5TEpuaFR5VW9MWEFxXzMzZ0NwcjB2cF9oY3NxLWxXVFozZy1kQ0F5dkNib0J3WTdPYUdwY1BRWTdETk4ydkNBV2EtTllTRlY3UldhYkNoV1VTUjF5TWtCNzlVd1o3eTVkRFNvaW1CVdIBrAFBVV95cUxQa0toVl9XbDNMSmNlMlcwYVd1bzQtem40QWxDQWdGNzJzenVLaXBtVW1Nemwtdnh2T2pxRVRwRWpkbHJWUWlCUW9kZi1VcDdabjdMc0FDQ1F1QTk1RkUzeVNNWGw2dUFTaXJ3NzV3SmE1Vi15RWxPdV9jRVc0d3loNVFGdUNDY2xjT0t0WjRwY1VhT0oxZ29zUXJJdGY5LVRla1FvdTJ1OEp0VEVn?oc=5",
+      "source": "gnews-rfp-exhibition-asia",
+      "score": 16,
+      "verdict": "reject",
+      "issuer": "India Foundation for the Arts",
+      "country": "India",
+      "deadline": "2026-09-11",
+      "route": "partner-leads",
+      "scope": "Creative museum collection projects and public engagement.",
+      "eligibility": "Indian nationals only; local project coordinator route would require confirmation if reopened.",
+      "why": "Official IFA notice explicitly marked CLOSED; extended deadline 11 September 2026 is more than 14 days past. Rejected for closure, not nationality restriction.",
+      "first_seen": "2026-10-29"
+    },
+    {
+      "title": "USA Pavilion at Expo 2030 Riyadh — design-build and exhibition RFI",
+      "url": "https://sam.gov/opp/55d9d27277d6457aa2090118f0a9fba7/view",
+      "summary": "US initiates procurement for Expo 2030 Riyadh pavilion MEED",
+      "published": "Wed, 14 Oct 2026 07:00:00 GMT",
+      "publisher": "MEED",
+      "id": "691cdf661db527c1",
+      "key": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYVM5WlQwcHBvaFFJSGcxYVJzTnR1SVNYb0FQcmlteFFmMnk3b0JYSTJwSk1DTVpLRlhXRTFJUE0xR1ROTHN2NFQzcm1fbkdlVGp3SFZDQWpGMEFucVB6eDk5T253OEt0V1hkdWd0eVJvV3BfTm1idHdiaXlsZ21STkpn?oc=5",
+      "source": "gnews-ksa-culture-tender",
+      "score": 13,
+      "verdict": "watch",
+      "issuer": "US Department of State",
+      "country": "Saudi Arabia",
+      "deadline": "2026-11-11",
+      "route": "subcontract",
+      "scope": "Pavilion design-build, interior exhibition design, fabrication and installation, disassembly and removal.",
+      "eligibility": "Potential exhibition-production subcontract to a qualified pavilion design-build prime; subcontract eligibility and package availability unverified. RFI response due 14:00 EST on 11 November.",
+      "why": "Official SAM notice 19AQMM27RUSPAVRIYADHEXPO2030 verifies relevant exhibition scope but explicitly identifies sources-sought market research, not an open award solicitation. Watch under profile RFI rule.",
+      "first_seen": "2026-10-29"
     }
   ],
   "seen": {
@@ -2033,14 +2073,30 @@
     "https://acdf.uz/en/news/uzbekistan-and-the-palace-of-versailles-explore-cultural-cooperation": {
       "t": "39761f653376d95d",
       "d": "2026-10-26"
+    },
+    "e182a65bf7f2a7ed": {
+      "t": "e182a65bf7f2a7ed",
+      "d": "2026-10-29"
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQnU3RS1nY3g0VnZfZmtUOVB2c1A1VjdMaEhERjk0TzM4bG1SNFBkUktsdmNtVmJqRFdfTUNsSmY5TEpuaFR5VW9MWEFxXzMzZ0NwcjB2cF9oY3NxLWxXVFozZy1kQ0F5dkNib0J3WTdPYUdwY1BRWTdETk4ydkNBV2EtTllTRlY3UldhYkNoV1VTUjF5TWtCNzlVd1o3eTVkRFNvaW1CVdIBrAFBVV95cUxQa0toVl9XbDNMSmNlMlcwYVd1bzQtem40QWxDQWdGNzJzenVLaXBtVW1Nemwtdnh2T2pxRVRwRWpkbHJWUWlCUW9kZi1VcDdabjdMc0FDQ1F1QTk1RkUzeVNNWGw2dUFTaXJ3NzV3SmE1Vi15RWxPdV9jRVc0d3loNVFGdUNDY2xjT0t0WjRwY1VhT0oxZ29zUXJJdGY5LVRla1FvdTJ1OEp0VEVn?oc=5": {
+      "t": "e182a65bf7f2a7ed",
+      "d": "2026-10-29"
+    },
+    "691cdf661db527c1": {
+      "t": "691cdf661db527c1",
+      "d": "2026-10-29"
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYVM5WlQwcHBvaFFJSGcxYVJzTnR1SVNYb0FQcmlteFFmMnk3b0JYSTJwSk1DTVpLRlhXRTFJUE0xR1ROTHN2NFQzcm1fbkdlVGp3SFZDQWpGMEFucVB6eDk5T253OEt0V1hkdWd0eVJvV3BfTm1idHdiaXlsZ21STkpn?oc=5": {
+      "t": "691cdf661db527c1",
+      "d": "2026-10-29"
     }
   },
   "last_run": {
-    "date": "2026-10-26",
+    "date": "2026-10-29",
     "added": {
       "fit": 0,
-      "watch": 3,
-      "reject": 3
+      "watch": 1,
+      "reject": 1
     }
   }
 }
