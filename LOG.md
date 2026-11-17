@@ -59,3 +59,6 @@
 
 ## 2026-11-09 — 4b0e92310a86e119
 6 candidates; {'fit': 1, 'watch': 2, 'reject': 3}; failed sources: ['nac-sg-tenders', 'wkcda-tenders', 'biennial-foundation-open-calls']
+
+## 2026-11-17 — 5652b40685d650c3
+1 candidates; {'fit': 0, 'watch': 0, 'reject': 1}; failed sources: ['gnews-rfp-exhibition-asia', 'gnews-cfp-sea', 'gnews-tender-exhibition-asia', 'gnews-acdf', 'gnews-ksa-culture-tender', 'nac-sg-tenders', 'wkcda-tenders', 'biennial-foundation-open-calls', 'unesco-procurement']

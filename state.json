@@ -1567,6 +1567,26 @@
       "eligibility": "",
       "why": "Coverage of an already-open design-week programme; no current supplier call evidenced from title. Page not fetched.",
       "first_seen": "2026-11-09"
+    },
+    {
+      "title": "CAF amends AFCON commercial rights tender to cover 2028, 2031 and 2033 after biennial switch - Sporticos",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM2JRcnZjcnB0MThNS3ZtYVYzSW1scU9wSzFpUHlMQTgwWE03YUJ0Y0lHTXAxYjFSNEt1UzV4eVVOUXdQRGdEOEhlVVdTdUlES0NCYlFDZWR6X3o0czM1b0pXLUpGUW0xZmtKZmxXMTM1aU5pTnNKd3NxRFRseGlXR1hIOU1yc2tOZWg4Q2xQNGlYM0pVcU5VTDBfaWJwX2U5cC1BVEFQT1RmSmJJS0RVV1g0cnN3UlhaZ2ZJM1h6akpWUQ?oc=5",
+      "summary": "CAF amends AFCON commercial rights tender to cover 2028, 2031 and 2033 after biennial switch Sporticos",
+      "published": "Tue, 03 Nov 2026 16:33:58 GMT",
+      "publisher": "Sporticos",
+      "id": "a071bcf5a660b471",
+      "key": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM2JRcnZjcnB0MThNS3ZtYVYzSW1scU9wSzFpUHlMQTgwWE03YUJ0Y0lHTXAxYjFSNEt1UzV4eVVOUXdQRGdEOEhlVVdTdUlES0NCYlFDZWR6X3o0czM1b0pXLUpGUW0xZmtKZmxXMTM1aU5pTnNKd3NxRFRseGlXR1hIOU1yc2tOZWg4Q2xQNGlYM0pVcU5VTDBfaWJwX2U5cC1BVEFQT1RmSmJJS0RVV1g0cnN3UlhaZ2ZJM1h6akpWUQ?oc=5",
+      "source": "gnews-biennale-rfp-global",
+      "score": 9,
+      "verdict": "reject",
+      "issuer": "",
+      "country": "",
+      "deadline": "",
+      "route": "",
+      "scope": "",
+      "eligibility": "",
+      "why": "Football commercial-rights tender, outside art production, exhibitions and cultural-project scope. Classified from explicit feed title; no notice fetch required.",
+      "first_seen": "2026-11-17"
     }
   ],
   "seen": {
@@ -2257,14 +2277,22 @@
     "https://acdf.uz/en/news/the-second-edition-of-tashkent-design-week-opens": {
       "t": "a1f76a96a4438285",
       "d": "2026-11-09"
+    },
+    "a071bcf5a660b471": {
+      "t": "a071bcf5a660b471",
+      "d": "2026-11-17"
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM2JRcnZjcnB0MThNS3ZtYVYzSW1scU9wSzFpUHlMQTgwWE03YUJ0Y0lHTXAxYjFSNEt1UzV4eVVOUXdQRGdEOEhlVVdTdUlES0NCYlFDZWR6X3o0czM1b0pXLUpGUW0xZmtKZmxXMTM1aU5pTnNKd3NxRFRseGlXR1hIOU1yc2tOZWg4Q2xQNGlYM0pVcU5VTDBfaWJwX2U5cC1BVEFQT1RmSmJJS0RVV1g0cnN3UlhaZ2ZJM1h6akpWUQ?oc=5": {
+      "t": "a071bcf5a660b471",
+      "d": "2026-11-17"
     }
   },
   "last_run": {
-    "date": "2026-11-09",
+    "date": "2026-11-17",
     "added": {
-      "fit": 1,
-      "watch": 2,
-      "reject": 3
+      "fit": 0,
+      "watch": 0,
+      "reject": 1
     }
   }
 }
