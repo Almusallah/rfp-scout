@@ -1,128 +1,133 @@
 {
-  "ran_at": "2026-11-17T12:46:59+00:00",
-  "candidates": 1,
+  "ran_at": "2026-11-20T09:15:51+00:00",
+  "candidates": 0,
   "overflow_dropped": 0,
   "sources": [
     {
       "id": "gnews-rfp-exhibition-asia",
-      "ok": false,
-      "optional": false,
-      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 10,
+      "new": 0,
+      "secs": 1.0
     },
     {
       "id": "gnews-cfp-sea",
-      "ok": false,
-      "optional": false,
-      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 9,
+      "new": 0,
+      "secs": 1.1
     },
     {
       "id": "gnews-tender-exhibition-asia",
-      "ok": false,
-      "optional": false,
-      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 34,
+      "new": 0,
+      "secs": 1.1
     },
     {
       "id": "gnews-dbf",
       "ok": true,
-      "items": 54,
+      "items": 52,
       "new": 0,
-      "secs": 2.9
+      "secs": 1.0
     },
     {
       "id": "gnews-acdf",
-      "ok": false,
-      "optional": false,
-      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 44,
+      "new": 0,
+      "secs": 1.1
     },
     {
       "id": "gnews-qatar-culture-tender",
       "ok": true,
-      "items": 21,
+      "items": 12,
       "new": 0,
-      "secs": 1.9
+      "secs": 0.9
     },
     {
       "id": "gnews-ksa-culture-tender",
-      "ok": false,
-      "optional": false,
-      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 22,
+      "new": 0,
+      "secs": 1.0
     },
     {
       "id": "gnews-unesco-sea",
       "ok": true,
       "items": 2,
       "new": 0,
-      "secs": 2.0
+      "secs": 0.9
     },
     {
       "id": "gnews-vietnam-cultural",
       "ok": true,
-      "items": 17,
+      "items": 15,
       "new": 0,
-      "secs": 3.1
+      "secs": 1.0
     },
     {
       "id": "gnews-cultural-institutes-sea",
       "ok": true,
       "items": 10,
       "new": 0,
-      "secs": 2.5
+      "secs": 1.0
     },
     {
       "id": "gnews-biennale-rfp-global",
       "ok": true,
-      "items": 9,
-      "new": 1,
-      "secs": 2.6
+      "items": 10,
+      "new": 0,
+      "secs": 1.2
     },
     {
       "id": "gnews-art-handling-tender",
       "ok": true,
       "items": 10,
       "new": 0,
-      "secs": 2.7
+      "secs": 0.9
     },
     {
       "id": "gnews-museum-procurement-gulf-asia",
       "ok": true,
-      "items": 25,
+      "items": 28,
       "new": 0,
-      "secs": 2.7
+      "secs": 1.1
     },
     {
       "id": "on-the-move",
       "ok": true,
       "items": 0,
       "new": 0,
-      "secs": 1.5
+      "secs": 1.0
     },
     {
       "id": "callforcurators",
       "ok": true,
       "items": 29,
       "new": 0,
-      "secs": 2.7
+      "secs": 2.3
     },
     {
       "id": "resartis",
       "ok": true,
       "items": 0,
       "new": 0,
-      "secs": 1.9
+      "secs": 2.4
     },
     {
       "id": "acdf-news",
       "ok": true,
       "items": 18,
       "new": 0,
-      "secs": 2.8
+      "secs": 0.1
     },
     {
       "id": "qf-tenders",
       "ok": true,
       "items": 0,
       "new": 0,
-      "secs": 5.5
+      "secs": 3.2
     },
     {
       "id": "nac-sg-tenders",
@@ -135,21 +140,21 @@
       "ok": true,
       "items": 0,
       "new": 0,
-      "secs": 2.2
+      "secs": 1.0
     },
     {
       "id": "sharjah-art-foundation",
       "ok": true,
       "items": 4,
       "new": 0,
-      "secs": 3.9
+      "secs": 2.5
     },
     {
       "id": "dbf-site",
       "ok": true,
       "items": 0,
       "new": 0,
-      "secs": 2.9
+      "secs": 1.6
     },
     {
       "id": "wkcda-tenders",
@@ -167,7 +172,7 @@
       "id": "unesco-procurement",
       "ok": false,
       "optional": true,
-      "error": "URLError: <urlopen error [Errno 54] Connection reset by peer>"
+      "error": "ConnectionResetError: [Errno 54] Connection reset by peer"
     }
   ]
 }

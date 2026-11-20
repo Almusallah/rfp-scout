@@ -2288,11 +2288,11 @@
     }
   },
   "last_run": {
-    "date": "2026-11-17",
+    "date": "2026-11-20",
     "added": {
       "fit": 0,
       "watch": 0,
-      "reject": 1
+      "reject": 0
     }
   }
 }
